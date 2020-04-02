@@ -1,0 +1,48 @@
+data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapia_intensiva;dimessi_guariti;deceduti
+2020-03-24T17:00:00;Padova;Azienda Ospedale Università di Padova;92;34;82;12
+2020-03-24T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
+2020-03-24T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;75;22;58;29
+2020-03-24T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;45;35;6;4
+2020-03-24T17:00:00;Belluno;Ospedale Belluno;46;9;7;4
+2020-03-24T17:00:00;Belluno;Ospedale di Comunità Belluno;0;0;0;0
+2020-03-24T17:00:00;Belluno;Ospedale Feltre;8;0;2;3
+2020-03-24T17:00:00;Belluno;Ospedale Agordo;6;0;1;0
+2020-03-24T17:00:00;Treviso;Ospedale Treviso;134;21;88;49
+2020-03-24T17:00:00;Treviso;Ospedale Oderzo;19;0;2;3
+2020-03-24T17:00:00;Treviso;Ospedale Conegliano;41;11;11;9
+2020-03-24T17:00:00;Treviso;Ospedale Vittorio Veneto °;63;2;7;2
+2020-03-24T17:00:00;Treviso;Ospedale Castelfranco;29;0;0;6
+2020-03-24T17:00:00;Treviso;Ospedale Montebelluna;27;8;1;4
+2020-03-24T17:00:00;Treviso;Ospedale S. Camillo-Treviso °;4;0;0;0
+2020-03-24T17:00:00;Venezia;Ospedale Mestre;57;14;16;13
+2020-03-24T17:00:00;Venezia;Ospedale Venezia;15;7;8;5
+2020-03-24T17:00:00;Venezia;Ospedale Mirano;0;14;8;3
+2020-03-24T17:00:00;Venezia;Ospedale Dolo °;71;13;11;5
+2020-03-24T17:00:00;Venezia;Ospedale Chioggia;0;1;0;2
+2020-03-24T17:00:00;Venezia;Ospedale Villa Salus-Mestre °;20;0;0;0
+2020-03-24T17:00:00;Venezia;Ospedale San Dona' di Piave;0;0;0;0
+2020-03-24T17:00:00;Venezia;Ospedale Jesolo °;45;12;3;9
+2020-03-24T17:00:00;Rovigo;Ospedale Rovigo;20;1;7;2
+2020-03-24T17:00:00;Rovigo;Ospedale Trecenta °;0;5;0;0
+2020-03-24T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-24T17:00:00;Padova;Ospedale Schiavonia °;112;24;34;17
+2020-03-24T17:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
+2020-03-24T17:00:00;Padova;Ospedale Cittadella;0;2;9;2
+2020-03-24T17:00:00;Padova;Ospedale Camposampiero;1;0;0;1
+2020-03-24T17:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0
+2020-03-24T17:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0
+2020-03-24T17:00:00;Vicenza;Ospedale Santorso °;36;9;5;4
+2020-03-24T17:00:00;Vicenza;Ospedale Bassano;33;6;0;7
+2020-03-24T17:00:00;Vicenza;Ospedale Asiago;20;0;0;8
+2020-03-24T17:00:00;Vicenza;Ospedale Vicenza;59;25;21;14
+2020-03-24T17:00:00;Vicenza;Ospedale Noventa Vicentina;17;0;1;0
+2020-03-24T17:00:00;Vicenza;Ospedale Arzignano;0;0;0;0
+2020-03-24T17:00:00;Vicenza;Ospedale Valdagno;4;0;0;0
+2020-03-24T17:00:00;Vicenza;Ospedale Lonigo;0;0;0;0
+2020-03-24T17:00:00;Verona;Ospedale Legnago;43;8;2;8
+2020-03-24T17:00:00;Verona;Ospedale San Bonifacio;4;1;1;0
+2020-03-24T17:00:00;Verona;Ospedale Villafranca °;107;14;3;1
+2020-03-24T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-24T17:00:00;Padova;IRCCS - IOV;2;0;0;0
+2020-03-24T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;51;7;16;9
+2020-03-24T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;20;9;4;1
