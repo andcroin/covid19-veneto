@@ -27,6 +27,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-08T17:00:00;Rovigo;Ospedale Rovigo;4;1;2;0
 2020-03-08T17:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-08T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-08T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-08T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-08T17:00:00;Padova;Ospedale Schiavonia *;0;0;0;1
 2020-03-08T17:00:00;Padova;Ospedale Piove di Sacco;5;1;0;1
@@ -46,11 +47,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-08T17:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-08T17:00:00;Verona;Ospedale Villafranca *;1;0;0;0
 2020-03-08T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-08T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-08T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-08T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-08T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;7;0;0;0
 2020-03-08T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-08T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-08T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-08T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-09T08:00:00;Padova;Azienda Ospedale Universita' di Padova;52;16;22;3
 2020-03-09T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-09T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;22;1;0;2
@@ -79,6 +83,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T08:00:00;Rovigo;Ospedale Rovigo;4;1;2;0
 2020-03-09T08:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-09T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-09T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-09T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-09T08:00:00;Padova;Ospedale Schiavonia *;0;0;0;1
 2020-03-09T08:00:00;Padova;Ospedale Piove di Sacco;5;1;0;1
@@ -98,11 +103,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T08:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Villafranca *;1;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-09T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-09T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-09T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;8;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-09T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-09T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-09T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-09T17:00:00;Padova;Azienda Ospedale Universita' di Padova;35;16;25;3
 2020-03-09T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-09T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;24;2;0;2
@@ -131,6 +139,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T17:00:00;Rovigo;Ospedale Rovigo;4;1;2;0
 2020-03-09T17:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-09T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-09T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-09T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-09T17:00:00;Padova;Ospedale Schiavonia *;0;0;0;1
 2020-03-09T17:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0
@@ -150,11 +159,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T17:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-09T17:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-09T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-09T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-09T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-09T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-09T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;8;0;0;0
 2020-03-09T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-09T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-09T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-09T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-10T08:00:00;Padova;Azienda Ospedale Universita' di Padova;41;16;25;3
 2020-03-10T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-10T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;20;3;3;2
@@ -183,6 +195,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T08:00:00;Rovigo;Ospedale Rovigo;4;1;2;0
 2020-03-10T08:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-10T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-10T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-10T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-10T08:00:00;Padova;Ospedale Schiavonia *;0;0;0;1
 2020-03-10T08:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0
@@ -202,11 +215,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T08:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-10T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-10T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-10T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;7;1;0;0
 2020-03-10T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-10T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-10T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-10T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-10T17:00:00;Padova;Azienda Ospedale Universita' di Padova;34;17;30;3
 2020-03-10T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-10T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;20;2;3;2
@@ -235,6 +251,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T17:00:00;Rovigo;Ospedale Rovigo;4;1;3;0
 2020-03-10T17:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-10T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-10T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-10T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-10T17:00:00;Padova;Ospedale Schiavonia *;18;0;0;1
 2020-03-10T17:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0
@@ -254,11 +271,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T17:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-10T17:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-10T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-10T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-10T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-10T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-10T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;7;1;0;0
 2020-03-10T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-10T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-10T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-10T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-11T08:00:00;Padova;Azienda Ospedale Universita' di Padova;42;15;31;5
 2020-03-11T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-11T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;19;3;3;2
@@ -287,6 +307,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-11T08:00:00;Rovigo;Ospedale Rovigo;4;1;3;0
 2020-03-11T08:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-11T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-11T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-11T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-11T08:00:00;Padova;Ospedale Schiavonia *;21;1;0;1
 2020-03-11T08:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0
@@ -306,11 +327,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-11T08:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-11T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-11T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-11T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;16;1;0;0
 2020-03-11T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;1;0;0
 2020-03-11T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-11T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-11T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-12T08:00:00;Padova;Azienda Ospedale Universita' di Padova;47;19;31;5
 2020-03-12T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-12T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;29;8;3;2
@@ -339,6 +363,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T08:00:00;Rovigo;Ospedale Rovigo;5;1;3;0
 2020-03-12T08:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-12T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-12T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-12T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-12T08:00:00;Padova;Ospedale Schiavonia *;29;4;0;1
 2020-03-12T08:00:00;Padova;Ospedale Piove di Sacco;6;1;0;0
@@ -358,11 +383,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T08:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-12T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-12T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-12T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;14;1;0;0
 2020-03-12T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;0;0;0;0
 2020-03-12T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-12T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-12T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-12T17:00:00;Padova;Azienda Ospedale Universita' di Padova;45;22;36;5
 2020-03-12T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-12T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;34;9;4;2
@@ -391,6 +419,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T17:00:00;Rovigo;Ospedale Rovigo;5;1;3;0
 2020-03-12T17:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-12T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-12T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-12T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-12T17:00:00;Padova;Ospedale Schiavonia *;37;5;0;1
 2020-03-12T17:00:00;Padova;Ospedale Piove di Sacco;6;1;0;0
@@ -410,11 +439,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T17:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-12T17:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-12T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-12T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-12T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-12T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-12T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;15;3;0;0
 2020-03-12T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;2;0;0;0
 2020-03-12T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-12T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-12T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-13T08:00:00;Padova;Azienda Ospedale Universita' di Padova;48;22;36;5
 2020-03-13T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-13T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;34;9;4;2
@@ -443,6 +475,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T08:00:00;Rovigo;Ospedale Rovigo;6;1;4;0
 2020-03-13T08:00:00;Rovigo;Ospedale Trecenta *;0;0;0;0
 2020-03-13T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-13T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-13T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-13T08:00:00;Padova;Ospedale Schiavonia *;40;5;0;1
 2020-03-13T08:00:00;Padova;Ospedale Piove di Sacco;5;1;0;0
@@ -462,11 +495,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T08:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-13T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-13T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-13T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;17;3;0;0
 2020-03-13T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;2;0;0;0
 2020-03-13T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-13T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-13T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-13T17:00:00;Padova;Azienda Ospedale Universita' di Padova;43;22;36;5
 2020-03-13T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-13T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;33;10;4;2
@@ -495,6 +531,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T17:00:00;Rovigo;Ospedale Rovigo;5;0;4;0
 2020-03-13T17:00:00;Rovigo;Ospedale Trecenta *;0;1;0;0
 2020-03-13T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-13T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-13T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-13T17:00:00;Padova;Ospedale Schiavonia *;32;6;0;1
 2020-03-13T17:00:00;Padova;Ospedale Piove di Sacco;2;1;0;1
@@ -514,11 +551,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T17:00:00;Verona;Ospedale San Bonifacio;0;0;0;0
 2020-03-13T17:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-13T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-13T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-13T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-13T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-13T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;20;1;0;0
 2020-03-13T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;2;0;0;0
 2020-03-13T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-13T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-13T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-14T08:00:00;Padova;Azienda Ospedale Universita' di Padova;47;21;34;6
 2020-03-14T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-14T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;31;10;8;3
@@ -547,6 +587,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T08:00:00;Rovigo;Ospedale Rovigo;5;0;3;0
 2020-03-14T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-14T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-14T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-14T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-14T08:00:00;Padova;Ospedale Schiavonia *;39;6;0;1
 2020-03-14T08:00:00;Padova;Ospedale Piove di Sacco;2;1;0;1
@@ -566,11 +607,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T08:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Villafranca *;6;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-14T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-14T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-14T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;27;3;0;1
 2020-03-14T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;7;0;0;0
 2020-03-14T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-14T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-14T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-14T17:00:00;Padova;Azienda Ospedale Universita' di Padova;45;21;38;6
 2020-03-14T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-14T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;31;10;8;4
@@ -599,6 +643,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T17:00:00;Rovigo;Ospedale Rovigo;4;0;5;0
 2020-03-14T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-14T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-14T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-14T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-14T17:00:00;Padova;Ospedale Schiavonia *;48;7;1;1
 2020-03-14T17:00:00;Padova;Ospedale Piove di Sacco;4;1;0;1
@@ -618,11 +663,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T17:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-14T17:00:00;Verona;Ospedale Villafranca *;6;0;0;0
 2020-03-14T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-14T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-14T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-14T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-14T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;33;3;0;2
 2020-03-14T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;8;0;0;0
 2020-03-14T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-14T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-14T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-15T08:00:00;Padova;Azienda Ospedale Universita' di Padova;41;22;38;6
 2020-03-15T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-15T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;37;10;8;5
@@ -651,6 +699,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T08:00:00;Rovigo;Ospedale Rovigo;4;0;5;0
 2020-03-15T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-15T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-15T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-15T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-15T08:00:00;Padova;Ospedale Schiavonia *;48;7;1;2
 2020-03-15T08:00:00;Padova;Ospedale Piove di Sacco;8;1;0;1
@@ -670,11 +719,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T08:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-15T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-15T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-15T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;37;3;0;2
 2020-03-15T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;8;0;0;0
 2020-03-15T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-15T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-15T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-15T17:00:00;Padova;Azienda Ospedale Universita' di Padova;51;22;38;6
 2020-03-15T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-15T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;37;11;8;5
@@ -703,6 +755,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T17:00:00;Rovigo;Ospedale Rovigo;5;0;5;0
 2020-03-15T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-15T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-15T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-15T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-15T17:00:00;Padova;Ospedale Schiavonia *;49;8;1;3
 2020-03-15T17:00:00;Padova;Ospedale Piove di Sacco;13;1;0;1
@@ -722,11 +775,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T17:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-15T17:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-15T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-15T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-15T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-15T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-15T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;49;6;1;2
 2020-03-15T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;9;0;0;0
 2020-03-15T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-15T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-15T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-16T08:00:00;Padova;Azienda Ospedale Universita' di Padova;51;22;38;6
 2020-03-16T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-16T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;45;12;9;5
@@ -755,6 +811,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T08:00:00;Rovigo;Ospedale Rovigo;5;0;5;0
 2020-03-16T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-16T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-16T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-16T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-16T08:00:00;Padova;Ospedale Schiavonia *;48;9;1;3
 2020-03-16T08:00:00;Padova;Ospedale Piove di Sacco;16;1;0;1
@@ -774,11 +831,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T08:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-16T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-16T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-16T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;49;6;2;2
 2020-03-16T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;11;1;0;0
 2020-03-16T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-16T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-16T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-16T17:00:00;Padova;Azienda Ospedale Universita' di Padova;49;22;38;6
 2020-03-16T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-16T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;43;14;9;5
@@ -807,6 +867,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T17:00:00;Rovigo;Ospedale Rovigo;10;0;5;0
 2020-03-16T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-16T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-16T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-16T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-16T17:00:00;Padova;Ospedale Schiavonia *;59;9;2;3
 2020-03-16T17:00:00;Padova;Ospedale Piove di Sacco;15;2;0;1
@@ -826,11 +887,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T17:00:00;Verona;Ospedale San Bonifacio;3;0;0;0
 2020-03-16T17:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-16T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-16T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-16T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-16T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-16T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;45;9;3;2
 2020-03-16T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;15;0;0;0
 2020-03-16T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-16T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-16T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-17T08:00:00;Padova;Azienda Ospedale Universita' di Padova;50;24;39;6
 2020-03-17T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-17T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;41;14;9;6
@@ -859,6 +923,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T08:00:00;Rovigo;Ospedale Rovigo;10;0;5;0
 2020-03-17T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-17T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-17T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-17T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-17T08:00:00;Padova;Ospedale Schiavonia *;58;10;2;3
 2020-03-17T08:00:00;Padova;Ospedale Piove di Sacco;14;3;0;1
@@ -878,11 +943,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T08:00:00;Verona;Ospedale San Bonifacio;3;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-17T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-17T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-17T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;43;9;3;2
 2020-03-17T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;15;2;0;0
 2020-03-17T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-17T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-17T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-17T17:00:00;Padova;Azienda Ospedale Universita' di Padova;47;24;43;7
 2020-03-17T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-17T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;49;14;9;6
@@ -911,6 +979,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T17:00:00;Rovigo;Ospedale Rovigo;10;0;5;0
 2020-03-17T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-17T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-17T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-17T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-17T17:00:00;Padova;Ospedale Schiavonia *;69;12;2;5
 2020-03-17T17:00:00;Padova;Ospedale Piove di Sacco;14;2;0;1
@@ -930,11 +999,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T17:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-17T17:00:00;Verona;Ospedale Villafranca *;6;0;0;0
 2020-03-17T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-17T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-17T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-17T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-17T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;40;9;6;3
 2020-03-17T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;16;0;2;0
 2020-03-17T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-17T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-17T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-18T08:00:00;Padova;Azienda Ospedale Universita' di Padova;82;24;43;7
 2020-03-18T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-18T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;46;14;22;6
@@ -963,6 +1035,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T08:00:00;Rovigo;Ospedale Rovigo;7;0;7;1
 2020-03-18T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-18T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-18T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-18T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-18T08:00:00;Padova;Ospedale Schiavonia *;69;12;2;5
 2020-03-18T08:00:00;Padova;Ospedale Piove di Sacco;12;3;0;1
@@ -982,11 +1055,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T08:00:00;Verona;Ospedale San Bonifacio;2;0;0;0
 2020-03-18T08:00:00;Verona;Ospedale Villafranca *;5;0;2;0
 2020-03-18T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-18T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-18T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-18T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-18T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;41;9;6;3
 2020-03-18T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;14;2;2;0
 2020-03-18T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-18T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-18T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-18T17:00:00;Padova;Azienda Ospedale Universita' di Padova;79;27;43;7
 2020-03-18T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-18T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;49;14;28;11
@@ -1015,6 +1091,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T17:00:00;Rovigo;Ospedale Rovigo;8;0;7;1
 2020-03-18T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-18T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-18T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-18T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-18T17:00:00;Padova;Ospedale Schiavonia *;80;13;2;6
 2020-03-18T17:00:00;Padova;Ospedale Piove di Sacco;6;3;0;1
@@ -1034,11 +1111,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T17:00:00;Verona;Ospedale San Bonifacio;1;1;0;0
 2020-03-18T17:00:00;Verona;Ospedale Villafranca *;7;0;2;0
 2020-03-18T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-18T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-18T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-18T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-18T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;42;7;7;4
 2020-03-18T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;17;2;2;0
 2020-03-18T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-18T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-18T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-19T08:00:00;Padova;Azienda Ospedale Universita' di Padova;77;28;48;7
 2020-03-19T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-19T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;63;15;29;11
@@ -1067,6 +1147,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T08:00:00;Rovigo;Ospedale Rovigo;8;0;7;1
 2020-03-19T08:00:00;Rovigo;Ospedale Trecenta *;0;3;0;0
 2020-03-19T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-03-19T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-19T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-19T08:00:00;Padova;Ospedale Schiavonia *;87;13;2;6
 2020-03-19T08:00:00;Padova;Ospedale Piove di Sacco;4;3;0;1
@@ -1086,11 +1167,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T08:00:00;Verona;Ospedale San Bonifacio;5;0;0;0
 2020-03-19T08:00:00;Verona;Ospedale Villafranca *;6;1;2;0
 2020-03-19T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-19T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-19T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-19T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-19T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;41;8;7;4
 2020-03-19T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;17;1;2;0
 2020-03-19T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-19T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-19T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-19T17:00:00;Padova;Azienda Ospedale Universita' di Padova;83;29;53;7
 2020-03-19T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-19T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;61;15;31;14
@@ -1119,6 +1203,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T17:00:00;Rovigo;Ospedale Rovigo;10;0;7;1
 2020-03-19T17:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-19T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-19T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-19T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-19T17:00:00;Padova;Ospedale Schiavonia *;97;18;4;8
 2020-03-19T17:00:00;Padova;Ospedale Piove di Sacco;0;3;0;1
@@ -1138,11 +1223,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T17:00:00;Verona;Ospedale San Bonifacio;4;0;0;0
 2020-03-19T17:00:00;Verona;Ospedale Villafranca *;10;5;2;0
 2020-03-19T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-19T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-19T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-19T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-19T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;43;7;8;4
 2020-03-19T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;21;0;2;0
 2020-03-19T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-19T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-19T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-20T08:00:00;Padova;Azienda Ospedale Universita' di Padova;84;29;55;7
 2020-03-20T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-20T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;66;16;34;15
@@ -1171,6 +1259,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T08:00:00;Rovigo;Ospedale Rovigo;11;0;7;1
 2020-03-20T08:00:00;Rovigo;Ospedale Trecenta *;0;2;0;0
 2020-03-20T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-20T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-20T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-20T08:00:00;Padova;Ospedale Schiavonia *;99;18;4;8
 2020-03-20T08:00:00;Padova;Ospedale Piove di Sacco;0;2;0;1
@@ -1190,11 +1279,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T08:00:00;Verona;Ospedale San Bonifacio;4;1;0;0
 2020-03-20T08:00:00;Verona;Ospedale Villafranca *;7;8;2;0
 2020-03-20T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-20T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-20T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-20T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-20T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;43;7;8;4
 2020-03-20T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;18;2;2;0
 2020-03-20T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-20T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-20T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-20T17:00:00;Padova;Azienda Ospedale Universita' di Padova;82;31;60;7
 2020-03-20T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-20T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;64;18;34;15
@@ -1223,6 +1315,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T17:00:00;Rovigo;Ospedale Rovigo;15;0;7;1
 2020-03-20T17:00:00;Rovigo;Ospedale Trecenta *;0;3;0;0
 2020-03-20T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-20T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-20T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-20T17:00:00;Padova;Ospedale Schiavonia *;108;19;4;10
 2020-03-20T17:00:00;Padova;Ospedale Piove di Sacco;0;2;0;1
@@ -1242,11 +1335,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T17:00:00;Verona;Ospedale San Bonifacio;6;0;0;0
 2020-03-20T17:00:00;Verona;Ospedale Villafranca *;12;8;2;1
 2020-03-20T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-20T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-20T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-20T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-20T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;41;8;11;5
 2020-03-20T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;24;2;2;0
 2020-03-20T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-20T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-20T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-21T08:00:00;Padova;Azienda Ospedale Universita' di Padova;84;31;59;8
 2020-03-21T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-21T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;71;18;41;16
@@ -1275,6 +1371,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T08:00:00;Rovigo;Ospedale Rovigo;15;0;7;1
 2020-03-21T08:00:00;Rovigo;Ospedale Trecenta *;0;3;0;0
 2020-03-21T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-21T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-21T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-21T08:00:00;Padova;Ospedale Schiavonia *;104;19;10;10
 2020-03-21T08:00:00;Padova;Ospedale Piove di Sacco;0;2;0;1
@@ -1294,11 +1391,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T08:00:00;Verona;Ospedale San Bonifacio;9;0;0;0
 2020-03-21T08:00:00;Verona;Ospedale Villafranca *;17;8;2;1
 2020-03-21T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-21T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-21T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-21T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-21T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;45;9;11;5
 2020-03-21T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;22;4;2;0
 2020-03-21T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-21T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-21T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-21T17:00:00;Padova;Azienda Ospedale Universita' di Padova;84;32;62;8
 2020-03-21T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-21T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;72;18;42;17
@@ -1327,6 +1427,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T17:00:00;Rovigo;Ospedale Rovigo;13;0;7;2
 2020-03-21T17:00:00;Rovigo;Ospedale Trecenta *;0;3;0;0
 2020-03-21T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-21T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-21T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-21T17:00:00;Padova;Ospedale Schiavonia *;103;18;19;12
 2020-03-21T17:00:00;Padova;Ospedale Piove di Sacco;0;1;0;1
@@ -1346,11 +1447,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T17:00:00;Verona;Ospedale San Bonifacio;10;0;0;0
 2020-03-21T17:00:00;Verona;Ospedale Villafranca *;56;11;2;1
 2020-03-21T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-21T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-21T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-21T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-21T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;45;9;11;5
 2020-03-21T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;22;5;4;0
 2020-03-21T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-21T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-21T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-22T08:00:00;Padova;Azienda Ospedale Universita' di Padova;92;32;62;8
 2020-03-22T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-22T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;73;18;44;19
@@ -1379,6 +1483,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T08:00:00;Rovigo;Ospedale Rovigo;13;0;7;2
 2020-03-22T08:00:00;Rovigo;Ospedale Trecenta *;0;3;0;0
 2020-03-22T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-22T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-22T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-22T08:00:00;Padova;Ospedale Schiavonia *;105;18;22;12
 2020-03-22T08:00:00;Padova;Ospedale Piove di Sacco;0;1;0;1
@@ -1398,11 +1503,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T08:00:00;Verona;Ospedale San Bonifacio;8;1;0;0
 2020-03-22T08:00:00;Verona;Ospedale Villafranca *;61;11;2;1
 2020-03-22T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-22T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-22T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-22T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-22T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;47;8;14;5
 2020-03-22T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;21;5;4;1
 2020-03-22T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-22T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-22T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-22T17:00:00;Padova;Azienda Ospedale Universita' di Padova;90;33;64;10
 2020-03-22T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-22T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;68;18;48;23
@@ -1431,6 +1539,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T17:00:00;Rovigo;Ospedale Rovigo;14;0;7;2
 2020-03-22T17:00:00;Rovigo;Ospedale Trecenta *;0;4;0;0
 2020-03-22T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-22T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-22T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-22T17:00:00;Padova;Ospedale Schiavonia *;114;20;22;13
 2020-03-22T17:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1450,11 +1559,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T17:00:00;Verona;Ospedale San Bonifacio;8;1;0;0
 2020-03-22T17:00:00;Verona;Ospedale Villafranca *;61;11;2;1
 2020-03-22T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-22T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-22T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-22T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-22T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;47;8;14;6
 2020-03-22T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;20;5;4;1
 2020-03-22T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-22T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-22T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-23T08:00:00;Padova;Azienda Ospedale Universita' di Padova;88;34;66;10
 2020-03-23T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-23T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;81;18;50;25
@@ -1483,6 +1595,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T08:00:00;Rovigo;Ospedale Rovigo;17;0;7;2
 2020-03-23T08:00:00;Rovigo;Ospedale Trecenta *;0;4;0;0
 2020-03-23T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-23T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-23T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-23T08:00:00;Padova;Ospedale Schiavonia *;112;22;22;14
 2020-03-23T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1502,11 +1615,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T08:00:00;Verona;Ospedale San Bonifacio;6;1;0;0
 2020-03-23T08:00:00;Verona;Ospedale Villafranca *;62;12;2;1
 2020-03-23T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-23T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-23T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-23T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-23T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;46;8;15;6
 2020-03-23T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;19;6;4;1
 2020-03-23T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-23T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-23T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-23T17:00:00;Padova;Azienda Ospedale Universita' di Padova;98;34;67;11
 2020-03-23T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-23T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;78;18;50;29
@@ -1535,6 +1651,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T17:00:00;Rovigo;Ospedale Rovigo;19;0;7;2
 2020-03-23T17:00:00;Rovigo;Ospedale Trecenta *;0;5;0;0
 2020-03-23T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-23T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-23T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-23T17:00:00;Padova;Ospedale Schiavonia *;115;23;25;15
 2020-03-23T17:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1554,11 +1671,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T17:00:00;Verona;Ospedale San Bonifacio;7;0;0;0
 2020-03-23T17:00:00;Verona;Ospedale Villafranca *;97;12;2;1
 2020-03-23T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-23T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-23T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-23T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-23T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;46;8;15;6
 2020-03-23T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;19;6;4;1
 2020-03-23T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-23T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-23T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-24T08:00:00;Padova;Azienda Ospedale Universita' di Padova;95;34;74;11
 2020-03-24T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-24T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;84;18;51;29
@@ -1587,6 +1707,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T08:00:00;Rovigo;Ospedale Rovigo;19;1;7;2
 2020-03-24T08:00:00;Rovigo;Ospedale Trecenta *;0;5;0;0
 2020-03-24T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-24T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-24T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-24T08:00:00;Padova;Ospedale Schiavonia *;110;24;30;15
 2020-03-24T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1606,11 +1727,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T08:00:00;Verona;Ospedale San Bonifacio;3;0;1;0
 2020-03-24T08:00:00;Verona;Ospedale Villafranca *;108;13;3;1
 2020-03-24T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-24T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-24T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-24T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-24T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;48;7;16;8
 2020-03-24T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;18;7;4;1
 2020-03-24T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-24T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-24T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-24T17:00:00;Padova;Azienda Ospedale Universita' di Padova;92;34;82;12
 2020-03-24T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-24T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;75;22;58;29
@@ -1639,6 +1763,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T17:00:00;Rovigo;Ospedale Rovigo;20;1;7;2
 2020-03-24T17:00:00;Rovigo;Ospedale Trecenta *;0;5;0;0
 2020-03-24T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-24T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-24T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-24T17:00:00;Padova;Ospedale Schiavonia *;112;24;34;17
 2020-03-24T17:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1658,11 +1783,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T17:00:00;Verona;Ospedale San Bonifacio;4;1;1;0
 2020-03-24T17:00:00;Verona;Ospedale Villafranca *;107;14;3;1
 2020-03-24T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-24T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-24T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-24T17:00:00;Padova;IRCCS - IOV;2;0;0;0
 2020-03-24T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;51;7;16;9
 2020-03-24T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;20;9;4;1
 2020-03-24T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-24T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-24T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-25T08:00:00;Padova;Azienda Ospedale Universita' di Padova;104;31;83;13
 2020-03-25T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-25T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;74;23;58;34
@@ -1691,6 +1819,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T08:00:00;Rovigo;Ospedale Rovigo;19;0;7;2
 2020-03-25T08:00:00;Rovigo;Ospedale Trecenta *;0;7;0;0
 2020-03-25T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-25T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-25T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-25T08:00:00;Padova;Ospedale Schiavonia *;108;24;38;19
 2020-03-25T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1
@@ -1710,11 +1839,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T08:00:00;Verona;Ospedale San Bonifacio;8;1;1;0
 2020-03-25T08:00:00;Verona;Ospedale Villafranca *;118;15;3;1
 2020-03-25T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-25T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-25T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-25T08:00:00;Padova;IRCCS - IOV;1;0;0;0
 2020-03-25T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;55;6;16;9
 2020-03-25T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;22;9;4;1
 2020-03-25T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-25T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-25T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-25T17:00:00;Padova;Azienda Ospedale Universita' di Padova;103;29;89;13
 2020-03-25T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-25T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;68;23;70;38
@@ -1743,6 +1875,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T17:00:00;Rovigo;Ospedale Rovigo;19;0;9;2
 2020-03-25T17:00:00;Rovigo;Ospedale Trecenta *;0;7;0;0
 2020-03-25T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-25T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-25T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-25T17:00:00;Padova;Ospedale Schiavonia *;117;22;43;20
 2020-03-25T17:00:00;Padova;Ospedale Piove di Sacco;0;0;0;0
@@ -1762,11 +1895,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T17:00:00;Verona;Ospedale San Bonifacio;9;0;1;0
 2020-03-25T17:00:00;Verona;Ospedale Villafranca *;120;16;3;1
 2020-03-25T17:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-25T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-25T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-25T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-25T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;59;6;21;9
 2020-03-25T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;24;9;4;1
 2020-03-25T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-25T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-25T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-26T08:00:00;Padova;Azienda Ospedale Universita' di Padova;105;29;89;13
 2020-03-26T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-26T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;78;23;72;39
@@ -1795,6 +1931,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T08:00:00;Rovigo;Ospedale Rovigo;18;1;9;2
 2020-03-26T08:00:00;Rovigo;Ospedale Trecenta *;0;7;0;0
 2020-03-26T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-26T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-26T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-26T08:00:00;Padova;Ospedale Schiavonia *;115;22;47;20
 2020-03-26T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -1814,11 +1951,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T08:00:00;Verona;Ospedale San Bonifacio;11;0;1;0
 2020-03-26T08:00:00;Verona;Ospedale Villafranca *;127;17;3;1
 2020-03-26T08:00:00;Verona;Ospedale Marzana;0;0;0;0
+2020-03-26T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-26T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-26T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-26T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;58;8;21;9
 2020-03-26T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;24;9;4;1
 2020-03-26T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-26T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-26T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-26T17:00:00;Padova;Azienda Ospedale Universita' di Padova;115;31;93;13
 2020-03-26T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-26T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;76;22;76;40
@@ -1847,6 +1987,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T17:00:00;Rovigo;Ospedale Rovigo;21;0;9;2
 2020-03-26T17:00:00;Rovigo;Ospedale Trecenta *;0;7;0;0
 2020-03-26T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-26T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-26T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-26T17:00:00;Padova;Ospedale Schiavonia *;123;22;48;23
 2020-03-26T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -1866,11 +2007,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T17:00:00;Verona;Ospedale San Bonifacio;10;1;1;0
 2020-03-26T17:00:00;Verona;Ospedale Villafranca *;124;18;3;3
 2020-03-26T17:00:00;Verona;Ospedale Marzana;1;0;0;0
+2020-03-26T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-26T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-26T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-26T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;59;9;22;11
 2020-03-26T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;24;9;4;2
 2020-03-26T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-26T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-26T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-27T08:00:00;Padova;Azienda Ospedale Universita' di Padova;121;30;93;13
 2020-03-27T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-27T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;88;22;76;41
@@ -1899,6 +2043,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T08:00:00;Rovigo;Ospedale Rovigo;24;0;9;2
 2020-03-27T08:00:00;Rovigo;Ospedale Trecenta *;0;7;0;0
 2020-03-27T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-27T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-27T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-27T08:00:00;Padova;Ospedale Schiavonia *;122;23;48;23
 2020-03-27T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -1918,11 +2063,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T08:00:00;Verona;Ospedale San Bonifacio;12;1;1;1
 2020-03-27T08:00:00;Verona;Ospedale Villafranca *;129;19;3;3
 2020-03-27T08:00:00;Verona;Ospedale Marzana;1;0;0;0
+2020-03-27T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-27T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-27T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-27T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;66;9;22;11
 2020-03-27T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;24;9;9;2
 2020-03-27T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-27T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-27T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-27T17:00:00;Padova;Azienda Ospedale Universita' di Padova;110;31;101;17
 2020-03-27T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-27T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;82;22;83;41
@@ -1951,6 +2099,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T17:00:00;Rovigo;Ospedale Rovigo;25;0;9;2
 2020-03-27T17:00:00;Rovigo;Ospedale Trecenta *;0;8;0;0
 2020-03-27T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-27T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-27T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-27T17:00:00;Padova;Ospedale Schiavonia *;121;23;57;25
 2020-03-27T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -1970,11 +2119,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T17:00:00;Verona;Ospedale San Bonifacio;18;1;2;2
 2020-03-27T17:00:00;Verona;Ospedale Villafranca *;116;20;13;6
 2020-03-27T17:00:00;Verona;Ospedale Marzana;2;0;0;0
+2020-03-27T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-27T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-27T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-27T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;65;10;20;11
 2020-03-27T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;46;9;9;6
 2020-03-27T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-27T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-27T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-28T08:00:00;Padova;Azienda Ospedale Universita' di Padova;116;30;104;16
 2020-03-28T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-28T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;85;23;87;44
@@ -2003,6 +2155,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T08:00:00;Rovigo;Ospedale Rovigo;24;0;11;2
 2020-03-28T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-28T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-28T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-28T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-28T08:00:00;Padova;Ospedale Schiavonia *;113;23;66;27
 2020-03-28T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2022,11 +2175,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T08:00:00;Verona;Ospedale San Bonifacio;18;1;2;2
 2020-03-28T08:00:00;Verona;Ospedale Villafranca *;123;20;13;8
 2020-03-28T08:00:00;Verona;Ospedale Marzana;3;0;0;0
+2020-03-28T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-28T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-28T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-28T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;70;10;22;15
 2020-03-28T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;45;9;9;7
 2020-03-28T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-28T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-28T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-28T17:00:00;Padova;Azienda Ospedale Universita' di Padova;117;30;112;18
 2020-03-28T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-28T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;77;24;87;44
@@ -2055,6 +2211,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T17:00:00;Rovigo;Ospedale Rovigo;24;0;11;2
 2020-03-28T17:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-28T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-28T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-28T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-28T17:00:00;Padova;Ospedale Schiavonia *;117;24;65;29
 2020-03-28T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2074,11 +2231,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T17:00:00;Verona;Ospedale San Bonifacio;19;4;2;3
 2020-03-28T17:00:00;Verona;Ospedale Villafranca *;118;20;13;9
 2020-03-28T17:00:00;Verona;Ospedale Marzana;19;0;1;0
+2020-03-28T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-28T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-28T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-28T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;69;10;23;15
 2020-03-28T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;43;11;9;7
 2020-03-28T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-28T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-28T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-29T08:00:00;Padova;Azienda Ospedale Universita' di Padova;113;32;113;19
 2020-03-29T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-29T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;80;24;89;49
@@ -2107,6 +2267,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T08:00:00;Rovigo;Ospedale Rovigo;24;0;11;2
 2020-03-29T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-29T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-29T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-29T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-29T08:00:00;Padova;Ospedale Schiavonia *;117;25;67;31
 2020-03-29T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2126,11 +2287,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T08:00:00;Verona;Ospedale San Bonifacio;17;4;2;3
 2020-03-29T08:00:00;Verona;Ospedale Villafranca *;116;20;16;10
 2020-03-29T08:00:00;Verona;Ospedale Marzana;19;0;1;0
+2020-03-29T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-29T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-29T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-29T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;72;10;23;15
 2020-03-29T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;42;11;10;7
 2020-03-29T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-29T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-29T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-29T17:00:00;Padova;Azienda Ospedale Universita' di Padova;116;32;118;19
 2020-03-29T17:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-29T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;86;24;90;49
@@ -2159,6 +2323,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T17:00:00;Rovigo;Ospedale Rovigo;24;0;11;2
 2020-03-29T17:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-29T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-29T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-29T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-29T17:00:00;Padova;Ospedale Schiavonia *;122;26;67;32
 2020-03-29T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2178,11 +2343,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T17:00:00;Verona;Ospedale San Bonifacio;20;6;2;3
 2020-03-29T17:00:00;Verona;Ospedale Villafranca *;118;20;16;12
 2020-03-29T17:00:00;Verona;Ospedale Marzana;19;0;1;0
+2020-03-29T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-29T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-29T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-29T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;77;10;23;15
 2020-03-29T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;44;11;11;7
 2020-03-29T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-29T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-29T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-30T08:00:00;Padova;Azienda Ospedale Universita' di Padova;118;31;118;19
 2020-03-30T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-30T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;88;24;91;54
@@ -2211,6 +2379,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T08:00:00;Rovigo;Ospedale Rovigo;25;0;11;2
 2020-03-30T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-30T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-30T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-30T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-30T08:00:00;Padova;Ospedale Schiavonia *;123;24;68;32
 2020-03-30T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2230,11 +2399,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T08:00:00;Verona;Ospedale San Bonifacio;20;6;2;3
 2020-03-30T08:00:00;Verona;Ospedale Villafranca *;121;20;16;12
 2020-03-30T08:00:00;Verona;Ospedale Marzana;19;0;1;0
+2020-03-30T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-30T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-30T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-30T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;78;10;26;15
 2020-03-30T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;44;11;11;7
 2020-03-30T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-30T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-30T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-30T17:00:00;Padova;Azienda Ospedale Universita' di Padova;113;32;125;21
 2020-03-30T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-30T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;89;24;90;55
@@ -2263,6 +2435,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T17:00:00;Rovigo;Ospedale Rovigo;25;0;11;2
 2020-03-30T17:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-30T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-30T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-30T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-30T17:00:00;Padova;Ospedale Schiavonia *;125;24;71;36
 2020-03-30T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2282,11 +2455,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T17:00:00;Verona;Ospedale San Bonifacio;19;7;1;3
 2020-03-30T17:00:00;Verona;Ospedale Villafranca *;115;20;24;12
 2020-03-30T17:00:00;Verona;Ospedale Marzana;22;0;1;0
+2020-03-30T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-30T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-30T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-30T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;79;10;26;15
 2020-03-30T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;50;11;14;8
 2020-03-30T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-30T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-30T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-31T08:00:00;Padova;Azienda Ospedale Universita' di Padova;114;32;133;21
 2020-03-31T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-31T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;81;24;96;58
@@ -2315,6 +2491,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T08:00:00;Rovigo;Ospedale Rovigo;25;0;11;2
 2020-03-31T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-31T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-31T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-31T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-31T08:00:00;Padova;Ospedale Schiavonia *;121;25;77;36
 2020-03-31T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2334,11 +2511,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T08:00:00;Verona;Ospedale San Bonifacio;16;7;1;3
 2020-03-31T08:00:00;Verona;Ospedale Villafranca *;123;20;23;12
 2020-03-31T08:00:00;Verona;Ospedale Marzana;27;0;1;0
+2020-03-31T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-31T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-31T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-31T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;26;15
 2020-03-31T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;49;12;14;8
 2020-03-31T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-31T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-31T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-03-31T17:00:00;Padova;Azienda Ospedale Universita' di Padova;114;32;133;22
 2020-03-31T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-03-31T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;84;24;97;59
@@ -2367,6 +2547,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T17:00:00;Rovigo;Ospedale Rovigo;26;0;11;2
 2020-03-31T17:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-03-31T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-03-31T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-03-31T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-03-31T17:00:00;Padova;Ospedale Schiavonia *;126;25;80;36
 2020-03-31T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2386,11 +2567,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T17:00:00;Verona;Ospedale San Bonifacio;16;7;1;4
 2020-03-31T17:00:00;Verona;Ospedale Villafranca *;118;19;29;15
 2020-03-31T17:00:00;Verona;Ospedale Marzana;27;0;1;0
+2020-03-31T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-03-31T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-03-31T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-03-31T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;26;17
 2020-03-31T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;48;10;17;12
 2020-03-31T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-03-31T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-03-31T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-01T08:00:00;Padova;Azienda Ospedale Universita' di Padova;112;31;138;22
 2020-04-01T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-04-01T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;82;24;101;60
@@ -2419,6 +2603,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T08:00:00;Rovigo;Ospedale Rovigo;25;0;11;2
 2020-04-01T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-04-01T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-04-01T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-01T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-04-01T08:00:00;Padova;Ospedale Schiavonia *;121;25;85;36
 2020-04-01T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2438,11 +2623,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T08:00:00;Verona;Ospedale San Bonifacio;14;7;1;4
 2020-04-01T08:00:00;Verona;Ospedale Villafranca *;116;19;32;15
 2020-04-01T08:00:00;Verona;Ospedale Marzana;35;0;1;0
+2020-04-01T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-01T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-01T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-01T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;26;17
 2020-04-01T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;48;11;17;12
 2020-04-01T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-04-01T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-04-01T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-01T17:00:00;Padova;Azienda Ospedale Universita' di Padova;106;31;138;23
 2020-04-01T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-04-01T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;81;24;103;60
@@ -2472,6 +2660,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T17:00:00;Rovigo;Ospedale Rovigo;23;0;11;4
 2020-04-01T17:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-04-01T17:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-04-01T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-01T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-04-01T17:00:00;Padova;Ospedale Schiavonia *;124;24;86;37
 2020-04-01T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2491,11 +2680,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T17:00:00;Verona;Ospedale San Bonifacio;12;7;1;5
 2020-04-01T17:00:00;Verona;Ospedale Villafranca *;119;18;32;16
 2020-04-01T17:00:00;Verona;Ospedale Marzana;36;0;1;0
+2020-04-01T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-01T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-01T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-01T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;81;10;32;18
 2020-04-01T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;46;11;20;12
 2020-04-01T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-04-01T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-04-01T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-02T08:00:00;Padova;Azienda Ospedale Universita' di Padova;100;31;143;25
 2020-04-02T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-04-02T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;71;24;112;62
@@ -2524,6 +2716,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T08:00:00;Rovigo;Ospedale Rovigo;24;0;11;4
 2020-04-02T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0
 2020-04-02T08:00:00;Rovigo;Ospedale Adria;0;0;0;0
+2020-04-02T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-02T08:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-04-02T08:00:00;Padova;Ospedale Schiavonia *;115;24;96;39
 2020-04-02T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
@@ -2543,11 +2736,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T08:00:00;Verona;Ospedale San Bonifacio;12;7;1;5
 2020-04-02T08:00:00;Verona;Ospedale Villafranca *;123;17;34;18
 2020-04-02T08:00:00;Verona;Ospedale Marzana;36;0;1;0
+2020-04-02T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-02T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-02T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-02T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;78;10;36;19
 2020-04-02T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;47;11;19;12
 2020-04-02T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;0;0;0;0
 2020-04-02T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0
+2020-04-02T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-02T17:00:00;Padova;Azienda Ospedale Universita' di Padova;105;29;145;27
 2020-04-02T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;0
 2020-04-02T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;78;24;111;62
@@ -2590,6 +2786,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T17:00:00;Verona;Ospedale San Bonifacio;13;7;1;5
 2020-04-02T17:00:00;Verona;Ospedale Villafranca *;118;17;38;22
 2020-04-02T17:00:00;Verona;Ospedale Marzana;42;0;1;1
+2020-04-02T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-02T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-02T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-02T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;78;10;36;19
 2020-04-02T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;47;9;24;16
@@ -2597,8 +2795,10 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T17:00:00;Belluno;Ospedale Agordo;12;0;1;0
 2020-04-02T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;29;0;0;0
 2020-04-02T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;0
+2020-04-02T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-02T17:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;0;0
 2020-04-02T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-02T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-02T17:00:00;Vicenza;Ospedale di Comunità Marostica;0;0;0;0
 2020-04-03T17:00:00;Padova;Azienda Ospedale Universita' di Padova;103;31;150;27
 2020-04-03T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
@@ -2642,6 +2842,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-03T17:00:00;Verona;Ospedale San Bonifacio;18;6;1;7
 2020-04-03T17:00:00;Verona;Ospedale Villafranca *;121;15;38;24
 2020-04-03T17:00:00;Verona;Ospedale Marzana;43;0;1;1
+2020-04-03T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-03T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-03T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-03T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;81;10;38;19
 2020-04-03T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;54;8;25;17
@@ -2649,8 +2851,10 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-03T17:00:00;Belluno;Ospedale Agordo;12;0;0;1
 2020-04-03T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
 2020-04-03T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;19;0;0;1
+2020-04-03T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-03T17:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;2;0
 2020-04-03T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-03T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-03T17:00:00;Vicenza;Ospedale di Comunità Marostica;8;0;0;0
 2020-04-04T08:00:00;Padova;Azienda Ospedale Universita' di Padova;100;31;151;29
 2020-04-04T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
@@ -2694,6 +2898,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T08:00:00;Verona;Ospedale San Bonifacio;24;6;1;7
 2020-04-04T08:00:00;Verona;Ospedale Villafranca *;117;16;41;24
 2020-04-04T08:00:00;Verona;Ospedale Marzana;43;0;1;1
+2020-04-04T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-04T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-04T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-04T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;81;10;38;19
 2020-04-04T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;50;12;25;17
@@ -2701,8 +2907,10 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T08:00:00;Belluno;Ospedale Agordo;12;0;0;1
 2020-04-04T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
 2020-04-04T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;19;0;0;1
+2020-04-04T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-04T08:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;2;0
 2020-04-04T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-04T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-04T08:00:00;Vicenza;Ospedale di Comunità Marostica;10;0;0;0
 2020-04-04T17:00:00;Padova;Azienda Ospedale Universita' di Padova;102;31;154;32
 2020-04-04T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
@@ -2746,6 +2954,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T17:00:00;Verona;Ospedale San Bonifacio;27;7;1;8
 2020-04-04T17:00:00;Verona;Ospedale Villafranca *;112;16;45;25
 2020-04-04T17:00:00;Verona;Ospedale Marzana;47;0;1;1
+2020-04-04T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-04T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-04T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-04T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;85;10;38;19
 2020-04-04T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;50;12;25;17
@@ -2753,8 +2963,10 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T17:00:00;Belluno;Ospedale Agordo;12;0;0;1
 2020-04-04T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
 2020-04-04T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;1
+2020-04-04T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-04T17:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;2;0
 2020-04-04T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-04T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-04T17:00:00;Vicenza;Ospedale di Comunità Marostica;10;0;0;0
 2020-04-05T08:00:00;Padova;Azienda Ospedale Universita' di Padova;105;31;157;31
 2020-04-05T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
@@ -2797,6 +3009,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T08:00:00;Verona;Ospedale San Bonifacio;27;7;1;8
 2020-04-05T08:00:00;Verona;Ospedale Villafranca *;109;16;48;25
 2020-04-05T08:00:00;Verona;Ospedale Marzana;47;0;1;1
+2020-04-05T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-05T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-05T08:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-05T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;82;10;44;19
 2020-04-05T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;46;12;29;17
@@ -2804,9 +3018,11 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T08:00:00;Belluno;Ospedale Agordo;12;0;0;1
 2020-04-05T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
 2020-04-05T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;1
+2020-04-05T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-05T08:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;2;0
 2020-04-05T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
 2020-04-05T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;14;0;8;1
+2020-04-05T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-05T08:00:00;Vicenza;Ospedale di Comunità Marostica;9;0;0;0
 2020-04-05T17:00:00;Padova;Azienda Ospedale Universita' di Padova;110;31;157;33
 2020-04-05T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
@@ -2850,6 +3066,8 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T17:00:00;Verona;Ospedale San Bonifacio;27;7;1;8
 2020-04-05T17:00:00;Verona;Ospedale Villafranca *;110;16;48;25
 2020-04-05T17:00:00;Verona;Ospedale Marzana;45;0;2;1
+2020-04-05T17:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-05T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
 2020-04-05T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-05T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;82;10;44;19
 2020-04-05T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;47;10;30;17
@@ -2857,6 +3075,120 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T17:00:00;Belluno;Ospedale Agordo;13;0;0;1
 2020-04-05T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
 2020-04-05T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;1
+2020-04-05T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
 2020-04-05T17:00:00;Venezia;Casa di Cura Rizzola - OdC;8;0;2;0
 2020-04-05T17:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;14;0;8;1
+2020-04-05T17:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
 2020-04-05T17:00:00;Vicenza;Ospedale di Comunità Marostica;9;0;0;0
+2020-04-06T08:00:00;Padova;Azienda Ospedale Universita' di Padova;115;31;157;34
+2020-04-06T08:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
+2020-04-06T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;75;22;124;72
+2020-04-06T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;32;31;23;16
+2020-04-06T08:00:00;Belluno;Ospedale Belluno;35;9;36;17
+2020-04-06T08:00:00;Belluno;Ospedale Feltre;7;0;9;5
+2020-04-06T08:00:00;Treviso;Ospedale Treviso;75;23;137;67
+2020-04-06T08:00:00;Treviso;Ospedale Oderzo;12;5;10;8
+2020-04-06T08:00:00;Treviso;Ospedale Conegliano;1;6;15;16
+2020-04-06T08:00:00;Treviso;Ospedale Vittorio Veneto *;135;6;68;15
+2020-04-06T08:00:00;Treviso;Ospedale Castelfranco;28;0;18;6
+2020-04-06T08:00:00;Treviso;Ospedale Montebelluna;20;9;28;9
+2020-04-06T08:00:00;Treviso;Ospedale S. Camillo-Treviso *;49;0;4;0
+2020-04-06T08:00:00;Venezia;Ospedale Mestre;38;14;40;27
+2020-04-06T08:00:00;Venezia;Ospedale Venezia;9;7;13;9
+2020-04-06T08:00:00;Venezia;Ospedale Mirano;0;10;7;6
+2020-04-06T08:00:00;Venezia;Ospedale Dolo *;89;11;34;28
+2020-04-06T08:00:00;Venezia;Ospedale Chioggia;0;0;0;3
+2020-04-06T08:00:00;Venezia;Ospedale Villa Salus-Mestre *;46;0;22;2
+2020-04-06T08:00:00;Venezia;Ospedale San Dona' di Piave;0;0;0;0
+2020-04-06T08:00:00;Venezia;Ospedale Jesolo *;45;13;33;17
+2020-04-06T08:00:00;Venezia;Casa di Cura Rizzola;10;0;3;1
+2020-04-06T08:00:00;Rovigo;Ospedale Rovigo;8;0;16;3
+2020-04-06T08:00:00;Rovigo;Ospedale Trecenta *;26;12;1;3
+2020-04-06T08:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-06T08:00:00;Padova;Ospedale Schiavonia *;113;22;120;47
+2020-04-06T08:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
+2020-04-06T08:00:00;Padova;Ospedale Cittadella;0;5;5;2
+2020-04-06T08:00:00;Padova;Ospedale Camposampiero;12;0;5;5
+2020-04-06T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0
+2020-04-06T08:00:00;Vicenza;Ospedale Santorso *;110;15;36;18
+2020-04-06T08:00:00;Vicenza;Ospedale Bassano;9;6;15;11
+2020-04-06T08:00:00;Vicenza;Ospedale Asiago;4;0;8;10
+2020-04-06T08:00:00;Vicenza;Ospedale Vicenza;70;20;54;45
+2020-04-06T08:00:00;Vicenza;Ospedale Noventa Vicentina;22;0;13;0
+2020-04-06T08:00:00;Vicenza;Ospedale Arzignano;0;0;0;1
+2020-04-06T08:00:00;Vicenza;Ospedale Valdagno;17;0;2;3
+2020-04-06T08:00:00;Vicenza;Ospedale Lonigo;0;0;0;0
+2020-04-06T08:00:00;Verona;Ospedale Legnago;68;7;9;32
+2020-04-06T08:00:00;Verona;Ospedale San Bonifacio;27;6;1;8
+2020-04-06T08:00:00;Verona;Ospedale Villafranca *;117;13;48;25
+2020-04-06T08:00:00;Verona;Ospedale Marzana;44;0;2;1
+2020-04-06T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0
+2020-04-06T08:00:00;Verona;Ospedale Malcesine;0;0;0;0
+2020-04-06T08:00:00;Padova;IRCCS - IOV;0;0;0;0
+2020-04-06T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;85;10;44;19
+2020-04-06T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;48;9;30;17
+2020-04-06T08:00:00;Belluno;Ospedale di Comunità Belluno;14;0;3;3
+2020-04-06T08:00:00;Belluno;Ospedale Agordo;13;0;0;1
+2020-04-06T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
+2020-04-06T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;1
+2020-04-06T08:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;0;0;0;0
+2020-04-06T08:00:00;Venezia;Casa di Cura Rizzola - OdC;8;0;2;0
+2020-04-06T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;14;0;8;1
+2020-04-06T08:00:00;Padova;Ospedale di Comunità Camposampiero;0;0;0;0
+2020-04-06T08:00:00;Vicenza;Ospedale di Comunità Marostica;9;0;0;0
+2020-04-06T17:00:00;Padova;Azienda Ospedale Universita' di Padova;118;27;160;34
+2020-04-06T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
+2020-04-06T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;70;22;127;72
+2020-04-06T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;32;31;23;16
+2020-04-06T17:00:00;Belluno;Ospedale Belluno;40;9;36;18
+2020-04-06T17:00:00;Belluno;Ospedale Feltre;8;0;9;5
+2020-04-06T17:00:00;Treviso;Ospedale Treviso;83;22;140;69
+2020-04-06T17:00:00;Treviso;Ospedale Oderzo;11;6;10;8
+2020-04-06T17:00:00;Treviso;Ospedale Conegliano;4;7;15;16
+2020-04-06T17:00:00;Treviso;Ospedale Vittorio Veneto *;112;6;69;13
+2020-04-06T17:00:00;Treviso;Ospedale Castelfranco;27;0;21;6
+2020-04-06T17:00:00;Treviso;Ospedale Montebelluna;19;9;30;9
+2020-04-06T17:00:00;Treviso;Ospedale S. Camillo-Treviso *;43;0;9;1
+2020-04-06T17:00:00;Venezia;Ospedale Mestre;34;14;43;27
+2020-04-06T17:00:00;Venezia;Ospedale Venezia;10;6;13;9
+2020-04-06T17:00:00;Venezia;Ospedale Mirano;0;10;7;6
+2020-04-06T17:00:00;Venezia;Ospedale Dolo *;90;11;35;30
+2020-04-06T17:00:00;Venezia;Ospedale Chioggia;0;0;0;3
+2020-04-06T17:00:00;Venezia;Ospedale Villa Salus-Mestre *;51;0;22;2
+2020-04-06T17:00:00;Venezia;Ospedale San Dona' di Piave;0;0;0;0
+2020-04-06T17:00:00;Venezia;Ospedale Jesolo *;45;11;34;17
+2020-04-06T17:00:00;Venezia;Casa di Cura Rizzola;10;0;4;1
+2020-04-06T17:00:00;Rovigo;Ospedale Rovigo;11;0;16;3
+2020-04-06T17:00:00;Rovigo;Ospedale Trecenta *;26;12;1;3
+2020-04-06T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-06T17:00:00;Padova;Ospedale Schiavonia *;111;22;123;49
+2020-04-06T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
+2020-04-06T17:00:00;Padova;Ospedale Cittadella;0;5;5;2
+2020-04-06T17:00:00;Padova;Ospedale Camposampiero;5;0;5;5
+2020-04-06T17:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0
+2020-04-06T17:00:00;Vicenza;Ospedale Santorso *;109;15;36;21
+2020-04-06T17:00:00;Vicenza;Ospedale Bassano;9;6;15;11
+2020-04-06T17:00:00;Vicenza;Ospedale Asiago;4;0;8;10
+2020-04-06T17:00:00;Vicenza;Ospedale Vicenza;70;20;54;45
+2020-04-06T17:00:00;Vicenza;Ospedale Noventa Vicentina;22;0;13;0
+2020-04-06T17:00:00;Vicenza;Ospedale Arzignano;0;0;0;1
+2020-04-06T17:00:00;Vicenza;Ospedale Valdagno;17;0;2;3
+2020-04-06T17:00:00;Vicenza;Ospedale Lonigo;0;0;0;0
+2020-04-06T17:00:00;Verona;Ospedale Legnago;66;7;11;33
+2020-04-06T17:00:00;Verona;Ospedale San Bonifacio;30;6;4;9
+2020-04-06T17:00:00;Verona;Ospedale Villafranca *;110;13;52;26
+2020-04-06T17:00:00;Verona;Ospedale Marzana;46;0;2;1
+2020-04-06T17:00:00;Verona;Ospedale Bussolengo;5;0;2;1
+2020-04-06T17:00:00;Verona;Ospedale Malcesine;1;0;2;1
+2020-04-06T17:00:00;Padova;IRCCS - IOV;0;0;0;0
+2020-04-06T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;44;21
+2020-04-06T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;11;9;34;19
+2020-04-06T17:00:00;Belluno;Ospedale di Comunità Belluno;14;0;3;3
+2020-04-06T17:00:00;Belluno;Ospedale Agordo;13;0;0;1
+2020-04-06T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
+2020-04-06T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;21;0;0;1
+2020-04-06T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;25;0;5;2
+2020-04-06T17:00:00;Venezia;Casa di Cura Rizzola - OdC;8;0;2;0
+2020-04-06T17:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;14;0;8;1
+2020-04-06T17:00:00;Padova;Ospedale di Comunità Camposampiero;7;0;8;0
+2020-04-06T17:00:00;Vicenza;Ospedale di Comunità Marostica;9;0;0;0
