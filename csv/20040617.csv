@@ -27,7 +27,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-06T17:00:00;Padova;Ospedale Schiavonia *;111;22;123;49
 2020-04-06T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
 2020-04-06T17:00:00;Padova;Ospedale Cittadella;0;5;5;2
-2020-04-06T17:00:00;Padova;Ospedale Camposampiero;5;0;5;5
+2020-04-06T17:00:00;Padova;Ospedale Camposampiero;5;0;0;5
 2020-04-06T17:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0
 2020-04-06T17:00:00;Vicenza;Ospedale Santorso *;109;15;36;21
 2020-04-06T17:00:00;Vicenza;Ospedale Bassano;9;6;15;11
@@ -41,14 +41,14 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-06T17:00:00;Verona;Ospedale San Bonifacio;30;6;4;9
 2020-04-06T17:00:00;Verona;Ospedale Villafranca *;110;13;52;26
 2020-04-06T17:00:00;Verona;Ospedale Marzana;46;0;2;1
-2020-04-06T17:00:00;Verona;Ospedale Bussolengo;5;0;2;1
-2020-04-06T17:00:00;Verona;Ospedale Malcesine;1;0;2;1
+2020-04-06T17:00:00;Verona;Ospedale Bussolengo;5;0;0;0
+2020-04-06T17:00:00;Verona;Ospedale Malcesine;1;0;0;0
 2020-04-06T17:00:00;Padova;IRCCS - IOV;0;0;0;0
 2020-04-06T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;44;21
-2020-04-06T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;11;9;34;19
+2020-04-06T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;44;9;34;19
 2020-04-06T17:00:00;Belluno;Ospedale di Comunità Belluno;14;0;3;3
 2020-04-06T17:00:00;Belluno;Ospedale Agordo;13;0;0;1
-2020-04-06T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;34;0;0;0
+2020-04-06T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;32;0;0;0
 2020-04-06T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;21;0;0;1
 2020-04-06T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;25;0;5;2
 2020-04-06T17:00:00;Venezia;Casa di Cura Rizzola - OdC;8;0;2;0
