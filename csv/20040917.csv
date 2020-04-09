@@ -1,0 +1,58 @@
+data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapia_intensiva;dimessi_guariti;deceduti
+2020-04-09T17:00:00;Padova;Azienda Ospedale Universita' di Padova;113;17;182;40
+2020-04-09T17:00:00;Padova;Azienda Ospedale Università di Padova - Ospedale S. Antonio;0;0;0;1
+2020-04-09T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;64;15;138;78
+2020-04-09T17:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;28;25;31;19
+2020-04-09T17:00:00;Belluno;Ospedale Belluno;42;8;40;21
+2020-04-09T17:00:00;Belluno;Ospedale Feltre;1;0;11;5
+2020-04-09T17:00:00;Treviso;Ospedale Treviso;69;17;156;76
+2020-04-09T17:00:00;Treviso;Ospedale Oderzo;8;6;14;9
+2020-04-09T17:00:00;Treviso;Ospedale Conegliano;1;7;17;17
+2020-04-09T17:00:00;Treviso;Ospedale Vittorio Veneto *;79;6;100;18
+2020-04-09T17:00:00;Treviso;Ospedale Castelfranco;17;0;26;7
+2020-04-09T17:00:00;Treviso;Ospedale Montebelluna;21;6;35;9
+2020-04-09T17:00:00;Treviso;Ospedale S. Camillo-Treviso *;44;0;10;1
+2020-04-09T17:00:00;Venezia;Ospedale Mestre;27;15;47;30
+2020-04-09T17:00:00;Venezia;Ospedale Venezia;12;6;14;10
+2020-04-09T17:00:00;Venezia;Ospedale Mirano;2;6;7;6
+2020-04-09T17:00:00;Venezia;Ospedale Dolo *;88;11;50;34
+2020-04-09T17:00:00;Venezia;Ospedale Chioggia;1;0;0;3
+2020-04-09T17:00:00;Venezia;Ospedale Villa Salus-Mestre *;47;0;35;3
+2020-04-09T17:00:00;Venezia;Ospedale Jesolo *;42;9;42;21
+2020-04-09T17:00:00;Venezia;Casa di Cura Rizzola;11;0;4;1
+2020-04-09T17:00:00;Rovigo;Ospedale Rovigo;14;0;17;4
+2020-04-09T17:00:00;Rovigo;Ospedale Trecenta *;39;10;3;7
+2020-04-09T17:00:00;Rovigo;Ospedale Adria;1;0;0;0
+2020-04-09T17:00:00;Padova;Ospedale Schiavonia *;116;16;142;56
+2020-04-09T17:00:00;Padova;Ospedale Piove di Sacco;0;0;1;0
+2020-04-09T17:00:00;Padova;Ospedale Cittadella;0;4;2;3
+2020-04-09T17:00:00;Padova;Ospedale Camposampiero;6;0;1;5
+2020-04-09T17:00:00;Vicenza;Ospedale Santorso *;128;14;53;24
+2020-04-09T17:00:00;Vicenza;Ospedale Bassano;4;3;17;14
+2020-04-09T17:00:00;Vicenza;Ospedale Asiago;2;0;7;10
+2020-04-09T17:00:00;Vicenza;Ospedale Vicenza;63;21;61;46
+2020-04-09T17:00:00;Vicenza;Ospedale Noventa Vicentina;21;0;20;0
+2020-04-09T17:00:00;Vicenza;Ospedale Arzignano;0;0;0;1
+2020-04-09T17:00:00;Vicenza;Ospedale Valdagno;18;0;4;3
+2020-04-09T17:00:00;Verona;Ospedale Legnago;60;6;19;34
+2020-04-09T17:00:00;Verona;Ospedale San Bonifacio;24;6;12;10
+2020-04-09T17:00:00;Verona;Ospedale Villafranca *;108;12;74;30
+2020-04-09T17:00:00;Verona;Ospedale Marzana;62;0;2;1
+2020-04-09T17:00:00;Verona;Ospedale Bussolengo;15;0;0;0
+2020-04-09T17:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;80;7;55;24
+2020-04-09T17:00:00;Verona;Ospedale P. Pederzoli-Peschiera;43;5;47;23
+2020-04-09T17:00:00;Belluno;Ospedale di Comunità Belluno;15;0;8;3
+2020-04-09T17:00:00;Belluno;Ospedale Agordo;14;0;1;1
+2020-04-09T17:00:00;Treviso;Ospedale di Comunità Castelfranco;1;0;0;0
+2020-04-09T17:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;30;0;3;2
+2020-04-09T17:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;24;0;0;4
+2020-04-09T17:00:00;Treviso;Ospedale di Comunità Vittorio Veneto;26;0;11;2
+2020-04-09T17:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;3;0
+2020-04-09T17:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;12;0;11;1
+2020-04-09T17:00:00;Padova;Ospedale di Comunità Camposampiero;8;0;10;0
+2020-04-09T17:00:00;Vicenza;Ospedale di Comunità Marostica;10;0;1;0
+2020-04-09T17:00:00;Venezia;Ospedale San Dona' di Piave;0;0;0;0
+2020-04-09T17:00:00;Vicenza;Ospedale Lonigo;0;0;0;0
+2020-04-09T17:00:00;Padova;IRCCS - IOV;0;0;0;0
+2020-04-09T17:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0
+2020-04-09T17:00:00;Verona;Ospedale Malcesine;0;0;0;0
