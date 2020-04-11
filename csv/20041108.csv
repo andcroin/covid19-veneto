@@ -12,7 +12,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-11T08:00:00;Treviso;Ospedale Castelfranco;12;0;30;7
 2020-04-11T08:00:00;Treviso;Ospedale Montebelluna;19;6;36;10
 2020-04-11T08:00:00;Treviso;Ospedale S. Camillo-Treviso *;44;0;10;1
-2020-04-11T08:00:00;Treviso;Ospedale civ. Motta di Livenza - Treviso;1;0;10;1
+2020-04-11T08:00:00;Treviso;Ospedale civ. Motta di Livenza - Treviso;1;0;0;0
 2020-04-11T08:00:00;Venezia;Ospedale Mestre;25;13;50;30
 2020-04-11T08:00:00;Venezia;Ospedale Venezia;12;6;15;10
 2020-04-11T08:00:00;Venezia;Ospedale Mirano;2;6;7;6
