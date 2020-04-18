@@ -34,6 +34,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T08:00:00;Padova;Ospedale Piove di Sacco;5;1;0;0;1
 2020-03-09T08:00:00;Padova;Ospedale Cittadella;0;0;0;0;0
 2020-03-09T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-09T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-09T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-09T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-09T08:00:00;Vicenza;Ospedale Santorso *;5;0;0;0;0
@@ -92,6 +93,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T08:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0;0
 2020-03-10T08:00:00;Padova;Ospedale Cittadella;0;0;0;0;0
 2020-03-10T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-10T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-10T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-10T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-10T08:00:00;Vicenza;Ospedale Santorso *;2;0;0;4;0
@@ -150,6 +152,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-11T08:00:00;Padova;Ospedale Piove di Sacco;4;1;0;0;0
 2020-03-11T08:00:00;Padova;Ospedale Cittadella;4;0;0;0;0
 2020-03-11T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-11T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-11T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-11T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-11T08:00:00;Vicenza;Ospedale Santorso *;6;0;0;4;0
@@ -208,6 +211,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T08:00:00;Padova;Ospedale Piove di Sacco;6;1;0;0;0
 2020-03-12T08:00:00;Padova;Ospedale Cittadella;8;0;0;0;1
 2020-03-12T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-12T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-12T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-12T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-12T08:00:00;Vicenza;Ospedale Santorso *;9;0;0;4;0
@@ -266,6 +270,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T08:00:00;Padova;Ospedale Piove di Sacco;5;1;0;0;0
 2020-03-13T08:00:00;Padova;Ospedale Cittadella;12;0;0;0;1
 2020-03-13T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-13T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-13T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-13T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-13T08:00:00;Vicenza;Ospedale Santorso *;11;0;0;4;0
@@ -324,6 +329,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T08:00:00;Padova;Ospedale Piove di Sacco;2;1;0;0;1
 2020-03-14T08:00:00;Padova;Ospedale Cittadella;9;0;0;1;1
 2020-03-14T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-14T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-14T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-14T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-14T08:00:00;Vicenza;Ospedale Santorso *;11;0;0;4;0
@@ -382,6 +388,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T08:00:00;Padova;Ospedale Piove di Sacco;8;1;0;0;1
 2020-03-15T08:00:00;Padova;Ospedale Cittadella;8;0;0;0;2
 2020-03-15T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-15T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-15T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-15T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-15T08:00:00;Vicenza;Ospedale Santorso *;11;0;0;4;0
@@ -440,6 +447,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T08:00:00;Padova;Ospedale Piove di Sacco;16;1;0;0;1
 2020-03-16T08:00:00;Padova;Ospedale Cittadella;13;0;0;0;2
 2020-03-16T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-16T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-16T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-16T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-16T08:00:00;Vicenza;Ospedale Santorso *;11;0;0;4;0
@@ -498,6 +506,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T08:00:00;Padova;Ospedale Piove di Sacco;14;3;0;0;1
 2020-03-17T08:00:00;Padova;Ospedale Cittadella;10;0;0;1;2
 2020-03-17T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-17T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-17T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-17T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-17T08:00:00;Vicenza;Ospedale Santorso *;11;0;0;4;0
@@ -556,6 +565,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T08:00:00;Padova;Ospedale Piove di Sacco;12;3;0;0;1
 2020-03-18T08:00:00;Padova;Ospedale Cittadella;8;0;0;2;2
 2020-03-18T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-18T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-18T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-18T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-18T08:00:00;Vicenza;Ospedale Santorso *;18;0;0;4;1
@@ -614,6 +624,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T08:00:00;Padova;Ospedale Piove di Sacco;4;3;0;0;1
 2020-03-19T08:00:00;Padova;Ospedale Cittadella;9;0;0;2;2
 2020-03-19T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-19T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-19T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-19T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-19T08:00:00;Vicenza;Ospedale Santorso *;23;1;0;4;1
@@ -672,6 +683,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T08:00:00;Padova;Ospedale Piove di Sacco;0;2;0;0;1
 2020-03-20T08:00:00;Padova;Ospedale Cittadella;8;0;0;2;2
 2020-03-20T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-20T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-20T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-20T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-20T08:00:00;Vicenza;Ospedale Santorso *;23;1;0;5;1
@@ -730,6 +742,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T08:00:00;Padova;Ospedale Piove di Sacco;0;2;0;0;1
 2020-03-21T08:00:00;Padova;Ospedale Cittadella;5;0;0;5;2
 2020-03-21T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-21T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-21T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-21T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-21T08:00:00;Vicenza;Ospedale Santorso *;24;2;0;5;1
@@ -788,6 +801,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T08:00:00;Padova;Ospedale Piove di Sacco;0;1;0;0;1
 2020-03-22T08:00:00;Padova;Ospedale Cittadella;5;0;0;5;2
 2020-03-22T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-22T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-22T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-22T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-22T08:00:00;Vicenza;Ospedale Santorso *;22;4;0;5;1
@@ -846,6 +860,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;0;1
 2020-03-23T08:00:00;Padova;Ospedale Cittadella;5;1;0;5;2
 2020-03-23T08:00:00;Padova;Ospedale Camposampiero;0;0;0;0;0
+2020-03-23T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-23T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-23T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-23T08:00:00;Vicenza;Ospedale Santorso *;21;5;0;5;1
@@ -904,6 +919,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;0;1
 2020-03-24T08:00:00;Padova;Ospedale Cittadella;2;1;0;8;2
 2020-03-24T08:00:00;Padova;Ospedale Camposampiero;1;0;0;0;0
+2020-03-24T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-24T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-24T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-24T08:00:00;Vicenza;Ospedale Santorso *;35;9;0;5;1
@@ -962,6 +978,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;0;1
 2020-03-25T08:00:00;Padova;Ospedale Cittadella;0;4;0;9;2
 2020-03-25T08:00:00;Padova;Ospedale Camposampiero;1;0;0;0;1
+2020-03-25T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-25T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-25T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-25T08:00:00;Vicenza;Ospedale Santorso *;36;10;0;5;4
@@ -1020,6 +1037,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-26T08:00:00;Padova;Ospedale Cittadella;0;4;0;9;2
 2020-03-26T08:00:00;Padova;Ospedale Camposampiero;2;0;0;0;1
+2020-03-26T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-26T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-26T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-26T08:00:00;Vicenza;Ospedale Santorso *;31;11;0;10;4
@@ -1078,6 +1096,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-27T08:00:00;Padova;Ospedale Cittadella;0;6;0;9;2
 2020-03-27T08:00:00;Padova;Ospedale Camposampiero;2;0;0;0;1
+2020-03-27T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-27T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-27T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-27T08:00:00;Vicenza;Ospedale Santorso *;52;12;0;10;5
@@ -1136,6 +1155,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-28T08:00:00;Padova;Ospedale Cittadella;0;10;0;9;2
 2020-03-28T08:00:00;Padova;Ospedale Camposampiero;8;0;0;0;1
+2020-03-28T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-28T08:00:00;Padova;Casa di Cura Villa Maria - Padova;3;0;0;0;0
 2020-03-28T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;0;0;0;0;0
 2020-03-28T08:00:00;Vicenza;Ospedale Santorso *;55;13;0;14;8
@@ -1194,6 +1214,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-29T08:00:00;Padova;Ospedale Cittadella;0;6;0;5;2
 2020-03-29T08:00:00;Padova;Ospedale Camposampiero;10;0;0;5;1
+2020-03-29T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-29T08:00:00;Padova;Casa di Cura Villa Maria - Padova;3;0;0;0;0
 2020-03-29T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;1;0;0;0;0
 2020-03-29T08:00:00;Vicenza;Ospedale Santorso *;56;14;0;19;11
@@ -1252,6 +1273,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-30T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-03-30T08:00:00;Padova;Ospedale Camposampiero;9;0;0;5;3
+2020-03-30T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-30T08:00:00;Padova;Casa di Cura Villa Maria - Padova;3;0;0;0;0
 2020-03-30T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;1;0;0;0;0
 2020-03-30T08:00:00;Vicenza;Ospedale Santorso *;70;15;0;19;12
@@ -1310,6 +1332,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-03-31T08:00:00;Padova;Ospedale Cittadella;0;6;0;5;2
 2020-03-31T08:00:00;Padova;Ospedale Camposampiero;10;0;0;5;3
+2020-03-31T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-03-31T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-03-31T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;8;0;0;5;1
 2020-03-31T08:00:00;Vicenza;Ospedale Santorso *;79;15;0;22;15
@@ -1368,6 +1391,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-01T08:00:00;Padova;Ospedale Cittadella;0;6;0;5;2
 2020-04-01T08:00:00;Padova;Ospedale Camposampiero;9;0;0;6;4
+2020-04-01T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-01T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-01T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;7;0;0;5;1
 2020-04-01T08:00:00;Vicenza;Ospedale Santorso *;83;16;0;22;15
@@ -1427,6 +1451,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-02T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-04-02T08:00:00;Padova;Ospedale Camposampiero;11;0;0;6;4
+2020-04-02T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-02T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-02T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;9;0;0;7;1
 2020-04-02T08:00:00;Vicenza;Ospedale Santorso *;86;16;0;25;15
@@ -1450,6 +1475,66 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;0;0;0;0;0
 2020-04-02T08:00:00;Venezia;Ospedale di Comunita' SS. Giovanni e Paolo;0;0;0;0;0
 2020-04-02T08:00:00;Treviso;Ospedale di Comunita' Vittorio Veneto;0;0;0;0;0
+2020-04-03T08:00:00;Padova;Azienda Ospedale Universita' di Padova;103;32;0;146;27
+2020-04-03T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0;1
+2020-04-03T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;76;24;0;115;64
+2020-04-03T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;33;31;0;22;15
+2020-04-03T08:00:00;Belluno;Ospedale Belluno;42;9;0;32;15
+2020-04-03T08:00:00;Belluno;Ospedale di Comunita' Belluno;14;0;0;0;3
+2020-04-03T08:00:00;Belluno;Ospedale Feltre;8;0;0;7;5
+2020-04-03T08:00:00;Belluno;Ospedale Agordo;12;0;0;1;0
+2020-04-03T08:00:00;Treviso;Ospedale Treviso;91;23;0;128;62
+2020-04-03T08:00:00;Treviso;Ospedale Oderzo;14;5;0;9;6
+2020-04-03T08:00:00;Treviso;Ospedale Conegliano;1;8;0;15;15
+2020-04-03T08:00:00;Treviso;Ospedale Vittorio Veneto *;137;7;0;53;14
+2020-04-03T08:00:00;Treviso;Ospedale Castelfranco;30;0;0;15;6
+2020-04-03T08:00:00;Treviso;Ospedale Montebelluna;28;8;0;22;8
+2020-04-03T08:00:00;Treviso;Ospedale S. Camillo-Treviso *;49;0;0;4;0
+2020-04-03T08:00:00;Venezia;Ospedale Mestre;58;0;0;33;23
+2020-04-03T08:00:00;Venezia;Ospedale Venezia;12;7;0;12;7
+2020-04-03T08:00:00;Venezia;Ospedale Mirano;0;9;0;7;7
+2020-04-03T08:00:00;Venezia;Ospedale Dolo *;83;14;0;26;23
+2020-04-03T08:00:00;Venezia;Ospedale Chioggia;0;0;0;0;3
+2020-04-03T08:00:00;Venezia;Ospedale Villa Salus-Mestre *;20;14;0;20;2
+2020-04-03T08:00:00;Venezia;Ospedale San Dona' di Piave;0;0;0;0;0
+2020-04-03T08:00:00;Venezia;Ospedale Jesolo *;45;12;0;27;16
+2020-04-03T08:00:00;Venezia;Ospedale Portogruaro;0;0;0;0;0
+2020-04-03T08:00:00;Venezia;Casa di Cura Rizzola;9;0;0;2;0
+2020-04-03T08:00:00;Venezia;Casa di Cura Rizzola - OdC;7;0;0;0;0
+2020-04-03T08:00:00;Venezia;Ospedale di Cinto Caomaggiore;0;0;0;0;0
+2020-04-03T08:00:00;Rovigo;Ospedale Rovigo;24;0;0;11;4
+2020-04-03T08:00:00;Rovigo;Ospedale Trecenta *;5;9;0;0;0
+2020-04-03T08:00:00;Rovigo;Ospedale Adria;1;0;0;0;0
+2020-04-03T08:00:00;Padova;Ospedale di Comunita' Camposampiero;0;0;0;0;0
+2020-04-03T08:00:00;Vicenza;Ospedale di Comunita' Marostica;0;0;0;0;0
+2020-04-03T08:00:00;Padova;Ospedale Schiavonia *;113;22;0;103;39
+2020-04-03T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
+2020-04-03T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
+2020-04-03T08:00:00;Padova;Ospedale Camposampiero;11;0;0;5;4
+2020-04-03T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
+2020-04-03T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
+2020-04-03T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;10;0;0;8;1
+2020-04-03T08:00:00;Vicenza;Ospedale Santorso *;96;16;0;30;15
+2020-04-03T08:00:00;Vicenza;Ospedale Bassano;22;6;0;7;11
+2020-04-03T08:00:00;Vicenza;Ospedale Asiago;20;0;0;1;9
+2020-04-03T08:00:00;Vicenza;Ospedale Vicenza;71;26;0;47;39
+2020-04-03T08:00:00;Vicenza;Ospedale Noventa Vicentina;22;0;0;11;0
+2020-04-03T08:00:00;Vicenza;Ospedale Arzignano;0;0;0;0;0
+2020-04-03T08:00:00;Vicenza;Ospedale Valdagno;13;0;0;1;1
+2020-04-03T08:00:00;Vicenza;Ospedale Lonigo;0;0;0;0;0
+2020-04-03T08:00:00;Verona;Ospedale Legnago;71;7;0;6;25
+2020-04-03T08:00:00;Verona;Ospedale San Bonifacio;18;7;0;1;5
+2020-04-03T08:00:00;Verona;Ospedale Villafranca *;119;16;0;37;23
+2020-04-03T08:00:00;Verona;Ospedale Marzana;43;0;0;1;1
+2020-04-03T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-03T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
+2020-04-03T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
+2020-04-03T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;0;36;19
+2020-04-03T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;49;9;0;24;16
+2020-04-03T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;29;0;0;0;0
+2020-04-03T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;20;0;0;0;0
+2020-04-03T08:00:00;Venezia;Ospedale di Comunita' SS. Giovanni e Paolo;0;0;0;0;0
+2020-04-03T08:00:00;Treviso;Ospedale di Comunita' Vittorio Veneto;0;0;0;0;0
 2020-04-04T08:00:00;Padova;Azienda Ospedale Universita' di Padova;100;31;0;151;29
 2020-04-04T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0;1
 2020-04-04T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;76;21;0;118;66
@@ -1479,6 +1564,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-04T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-04-04T08:00:00;Padova;Ospedale Camposampiero;10;0;0;5;4
+2020-04-04T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-04T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-04T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;14;0;0;8;1
 2020-04-04T08:00:00;Vicenza;Ospedale Santorso *;103;16;0;32;17
@@ -1538,6 +1624,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-05T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-04-05T08:00:00;Padova;Ospedale Camposampiero;12;0;0;5;4
+2020-04-05T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-05T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-05T08:00:00;Vicenza;Ospedale Santorso *;110;16;0;36;17
 2020-04-05T08:00:00;Vicenza;Ospedale Bassano;9;6;0;15;11
@@ -1598,6 +1685,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-06T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-06T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-04-06T08:00:00;Padova;Ospedale Camposampiero;12;0;0;5;5
+2020-04-06T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-06T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-06T08:00:00;Vicenza;Ospedale Santorso *;110;15;0;36;18
 2020-04-06T08:00:00;Vicenza;Ospedale Bassano;9;6;0;15;11
@@ -1657,6 +1745,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-07T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-07T08:00:00;Padova;Ospedale Cittadella;0;5;0;5;2
 2020-04-07T08:00:00;Padova;Ospedale Camposampiero;5;0;0;0;5
+2020-04-07T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-07T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-07T08:00:00;Vicenza;Ospedale Santorso *;113;15;0;39;21
 2020-04-07T08:00:00;Vicenza;Ospedale Bassano;8;5;0;15;11
@@ -1716,6 +1805,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-08T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-08T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-08T08:00:00;Padova;Ospedale Camposampiero;6;0;0;0;5
+2020-04-08T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-08T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-08T08:00:00;Vicenza;Ospedale Santorso *;120;14;0;44;22
 2020-04-08T08:00:00;Vicenza;Ospedale Bassano;6;5;0;15;11
@@ -1774,6 +1864,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-09T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-09T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-09T08:00:00;Padova;Ospedale Camposampiero;5;0;0;1;5
+2020-04-09T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-09T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-09T08:00:00;Vicenza;Ospedale Santorso *;124;15;0;49;22
 2020-04-09T08:00:00;Vicenza;Ospedale Bassano;6;5;0;18;12
@@ -1835,6 +1926,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-10T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-10T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-10T08:00:00;Padova;Ospedale Camposampiero;6;0;0;1;5
+2020-04-10T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-10T08:00:00;Vicenza;Ospedale Santorso *;130;14;0;55;24
 2020-04-10T08:00:00;Vicenza;Ospedale Bassano;12;3;0;17;14
 2020-04-10T08:00:00;Vicenza;Ospedale Asiago;2;0;0;7;10
@@ -1897,6 +1989,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-11T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-11T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-11T08:00:00;Padova;Ospedale Camposampiero;5;0;0;1;5
+2020-04-11T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-11T08:00:00;Vicenza;Ospedale Santorso *;132;13;0;58;28
 2020-04-11T08:00:00;Vicenza;Ospedale Bassano;5;3;0;17;12
 2020-04-11T08:00:00;Vicenza;Ospedale Asiago;2;0;0;7;10
@@ -1958,6 +2051,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-12T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-12T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-12T08:00:00;Padova;Ospedale Camposampiero;4;0;0;1;6
+2020-04-12T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-12T08:00:00;Vicenza;Ospedale Santorso *;132;13;0;62;28
 2020-04-12T08:00:00;Vicenza;Ospedale Bassano;5;3;0;19;12
 2020-04-12T08:00:00;Vicenza;Ospedale Asiago;2;0;0;7;10
@@ -2019,6 +2113,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-13T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-13T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-13T08:00:00;Padova;Ospedale Camposampiero;4;0;0;1;6
+2020-04-13T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-13T08:00:00;Vicenza;Ospedale Santorso *;139;13;0;66;29
 2020-04-13T08:00:00;Vicenza;Ospedale Bassano;1;3;0;19;12
 2020-04-13T08:00:00;Vicenza;Ospedale Asiago;2;0;0;7;10
@@ -2079,6 +2174,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-14T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-14T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-14T08:00:00;Padova;Ospedale Camposampiero;4;0;0;1;6
+2020-04-14T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-14T08:00:00;Vicenza;Ospedale Santorso *;136;11;0;71;31
 2020-04-14T08:00:00;Vicenza;Ospedale Bassano;1;3;0;19;12
 2020-04-14T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
@@ -2140,6 +2236,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-15T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-15T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-15T08:00:00;Padova;Ospedale Camposampiero;4;0;0;1;6
+2020-04-15T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-15T08:00:00;Vicenza;Ospedale Santorso *;142;10;0;74;32
 2020-04-15T08:00:00;Vicenza;Ospedale Bassano;0;3;0;20;12
 2020-04-15T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
@@ -2201,6 +2298,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-16T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-16T08:00:00;Padova;Ospedale Cittadella;0;4;0;2;3
 2020-04-16T08:00:00;Padova;Ospedale Camposampiero;4;0;0;1;6
+2020-04-16T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-16T08:00:00;Vicenza;Ospedale Santorso *;145;9;0;78;34
 2020-04-16T08:00:00;Vicenza;Ospedale Bassano;1;2;0;20;12
 2020-04-16T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
@@ -2262,6 +2360,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-17T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
 2020-04-17T08:00:00;Padova;Ospedale Cittadella;0;2;1;2;5
 2020-04-17T08:00:00;Padova;Ospedale Camposampiero;4;0;1;1;6
+2020-04-17T08:00:00;Padova;Ospedale Conselve;0;0;0;0;0
 2020-04-17T08:00:00;Vicenza;Ospedale Santorso *;139;8;36;84;38
 2020-04-17T08:00:00;Vicenza;Ospedale Bassano;0;2;0;20;12
 2020-04-17T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
@@ -2293,3 +2392,65 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-17T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-17T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-17T08:00:00;Venezia;Ospedale Portogruaro;0;0;0;0;0
+2020-04-18T08:00:00;Padova;Azienda Ospedale Universita' di Padova;62;17;32;247;54
+2020-04-18T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0;1
+2020-04-18T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;47;15;10;174;92
+2020-04-18T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;19;25;13;45;25
+2020-04-18T08:00:00;Belluno;Ospedale Belluno;37;7;1;59;28
+2020-04-18T08:00:00;Belluno;Ospedale Feltre;0;0;0;12;6
+2020-04-18T08:00:00;Treviso;Ospedale Treviso;40;11;8;186;89
+2020-04-18T08:00:00;Treviso;Ospedale Oderzo;6;7;2;16;15
+2020-04-18T08:00:00;Treviso;Ospedale Conegliano;2;1;1;16;20
+2020-04-18T08:00:00;Treviso;Ospedale Vittorio Veneto *;48;4;9;136;25
+2020-04-18T08:00:00;Treviso;Ospedale Castelfranco;3;0;0;38;8
+2020-04-18T08:00:00;Treviso;Ospedale Montebelluna;11;2;6;44;12
+2020-04-18T08:00:00;Treviso;Ospedale S. Camillo-Treviso *;49;0;5;10;1
+2020-04-18T08:00:00;Treviso;Ospedale civ. Motta di Livenza - Treviso;3;0;3;0;0
+2020-04-18T08:00:00;Venezia;Ospedale Mestre;26;8;22;61;33
+2020-04-18T08:00:00;Venezia;Ospedale Venezia;10;4;6;20;11
+2020-04-18T08:00:00;Venezia;Ospedale Mirano;0;4;4;9;6
+2020-04-18T08:00:00;Venezia;Ospedale Dolo *;78;6;21;65;50
+2020-04-18T08:00:00;Venezia;Ospedale Chioggia;0;0;0;1;3
+2020-04-18T08:00:00;Venezia;Ospedale Villa Salus-Mestre *;52;0;15;56;4
+2020-04-18T08:00:00;Venezia;Ospedale San Dona' di Piave;1;0;1;0;0
+2020-04-18T08:00:00;Venezia;Ospedale Jesolo *;34;4;16;57;23
+2020-04-18T08:00:00;Venezia;Casa di Cura Rizzola;10;0;4;7;1
+2020-04-18T08:00:00;Rovigo;Ospedale Rovigo;2;0;2;21;5
+2020-04-18T08:00:00;Rovigo;Ospedale Trecenta *;46;8;12;4;16
+2020-04-18T08:00:00;Rovigo;Ospedale Adria;2;0;2;1;0
+2020-04-18T08:00:00;Padova;Ospedale Schiavonia *;110;7;3;185;71
+2020-04-18T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
+2020-04-18T08:00:00;Padova;Ospedale Cittadella;0;2;0;2;6
+2020-04-18T08:00:00;Padova;Ospedale Camposampiero;4;0;1;1;6
+2020-04-18T08:00:00;Padova;Ospedale Conselve;1;0;1;0;0
+2020-04-18T08:00:00;Vicenza;Ospedale Santorso *;128;8;34;98;38
+2020-04-18T08:00:00;Vicenza;Ospedale Bassano;0;2;0;20;12
+2020-04-18T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
+2020-04-18T08:00:00;Vicenza;Ospedale Vicenza;50;16;5;81;59
+2020-04-18T08:00:00;Vicenza;Ospedale Noventa Vicentina;24;0;3;27;0
+2020-04-18T08:00:00;Vicenza;Ospedale Arzignano;0;0;0;0;1
+2020-04-18T08:00:00;Vicenza;Ospedale Valdagno;17;0;2;10;3
+2020-04-18T08:00:00;Verona;Ospedale Legnago;53;7;3;40;38
+2020-04-18T08:00:00;Verona;Ospedale San Bonifacio;9;0;0;21;18
+2020-04-18T08:00:00;Verona;Ospedale Villafranca *;95;14;10;105;49
+2020-04-18T08:00:00;Verona;Ospedale Marzana;67;0;11;3;3
+2020-04-18T08:00:00;Verona;Ospedale Bussolengo;22;0;3;15;1
+2020-04-18T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;64;9;19;82;27
+2020-04-18T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;52;2;2;68;30
+2020-04-18T08:00:00;Padova;IRCCS - IOV;1;0;1;0;0
+2020-04-18T08:00:00;Belluno;Ospedale di Comunita' Belluno;14;0;0;14;6
+2020-04-18T08:00:00;Belluno;Ospedale Agordo;14;0;2;5;1
+2020-04-18T08:00:00;Treviso;Ospedale di Comunita' Castelfranco;2;0;0;1;0
+2020-04-18T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;27;0;5;10;3
+2020-04-18T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;14;0;11;13;4
+2020-04-18T08:00:00;Treviso;Ospedale di Comunita' Vittorio Veneto;24;0;6;21;2
+2020-04-18T08:00:00;Venezia;Ospedale di Comunita' SS. Giovanni e Paolo;1;0;0;0;0
+2020-04-18T08:00:00;Venezia;Casa di Cura Rizzola - OdC;10;0;2;3;0
+2020-04-18T08:00:00;Venezia;Ospedale di Cinto Caomaggiore;1;0;1;0;0
+2020-04-18T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;11;0;6;17;1
+2020-04-18T08:00:00;Padova;Ospedale di Comunita' Camposampiero;8;0;4;12;0
+2020-04-18T08:00:00;Vicenza;Ospedale di Comunita' Marostica;15;0;0;6;2
+2020-04-18T08:00:00;Vicenza;Ospedale Lonigo;0;0;0;0;0
+2020-04-18T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
+2020-04-18T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
+2020-04-18T08:00:00;Venezia;Ospedale Portogruaro;0;0;0;0;0
