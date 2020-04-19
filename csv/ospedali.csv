@@ -50,6 +50,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-09T08:00:00;Verona;Ospedale Villafranca *;1;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-09T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-09T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-09T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;8;0;0;0;0
@@ -109,6 +110,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-10T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-10T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-10T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-10T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;7;1;0;0;0
@@ -168,6 +170,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-11T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-11T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-11T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-11T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;16;1;0;0;0
@@ -227,6 +230,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-12T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-12T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-12T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-12T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;14;1;0;0;0
@@ -286,6 +290,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-13T08:00:00;Verona;Ospedale Villafranca *;3;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-13T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-13T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-13T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;17;3;0;0;0
@@ -345,6 +350,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-14T08:00:00;Verona;Ospedale Villafranca *;6;0;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-14T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-14T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-14T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;27;3;0;0;1
@@ -404,6 +410,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-15T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-15T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-15T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-15T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;37;3;0;0;2
@@ -463,6 +470,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-16T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-16T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-16T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-16T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;49;6;0;2;2
@@ -522,6 +530,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-17T08:00:00;Verona;Ospedale Villafranca *;5;0;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-17T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-17T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-17T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;43;9;0;3;2
@@ -581,6 +590,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-18T08:00:00;Verona;Ospedale Villafranca *;5;0;0;2;0
 2020-03-18T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-18T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-18T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-18T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-18T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-18T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;41;9;0;6;3
@@ -640,6 +650,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-19T08:00:00;Verona;Ospedale Villafranca *;6;1;0;2;0
 2020-03-19T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-19T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-19T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-19T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-19T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-19T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;41;8;0;7;4
@@ -699,6 +710,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-20T08:00:00;Verona;Ospedale Villafranca *;7;8;0;2;0
 2020-03-20T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-20T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-20T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-20T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-20T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-20T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;43;7;0;8;4
@@ -758,6 +770,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-21T08:00:00;Verona;Ospedale Villafranca *;17;8;0;2;1
 2020-03-21T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-21T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-21T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-21T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-21T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-21T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;45;9;0;11;5
@@ -817,6 +830,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-22T08:00:00;Verona;Ospedale Villafranca *;61;11;0;2;1
 2020-03-22T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-22T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-22T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-22T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-22T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-22T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;47;8;0;14;5
@@ -876,6 +890,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-23T08:00:00;Verona;Ospedale Villafranca *;62;12;0;2;1
 2020-03-23T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-23T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-23T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-23T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-23T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-23T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;46;8;0;15;6
@@ -935,6 +950,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-24T08:00:00;Verona;Ospedale Villafranca *;108;13;0;3;1
 2020-03-24T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-24T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-24T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-24T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-24T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-24T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;48;7;0;16;8
@@ -994,6 +1010,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-25T08:00:00;Verona;Ospedale Villafranca *;118;15;0;3;1
 2020-03-25T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-25T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-25T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-25T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-25T08:00:00;Padova;IRCCS - IOV;1;0;0;0;0
 2020-03-25T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;55;6;0;16;9
@@ -1053,6 +1070,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-26T08:00:00;Verona;Ospedale Villafranca *;127;17;0;3;1
 2020-03-26T08:00:00;Verona;Ospedale Marzana;0;0;0;0;0
 2020-03-26T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-26T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-26T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-26T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-26T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;58;8;0;21;9
@@ -1112,6 +1130,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-27T08:00:00;Verona;Ospedale Villafranca *;129;19;0;3;3
 2020-03-27T08:00:00;Verona;Ospedale Marzana;1;0;0;0;0
 2020-03-27T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-27T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-27T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-27T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-27T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;66;9;0;22;11
@@ -1171,6 +1190,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-28T08:00:00;Verona;Ospedale Villafranca *;123;20;0;13;8
 2020-03-28T08:00:00;Verona;Ospedale Marzana;3;0;0;0;0
 2020-03-28T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-28T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-28T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-28T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-28T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;70;10;0;22;15
@@ -1230,6 +1250,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-29T08:00:00;Verona;Ospedale Villafranca *;116;20;0;16;10
 2020-03-29T08:00:00;Verona;Ospedale Marzana;19;0;0;1;0
 2020-03-29T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-29T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-29T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-29T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-29T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;72;10;0;23;15
@@ -1289,6 +1310,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-30T08:00:00;Verona;Ospedale Villafranca *;121;20;0;16;12
 2020-03-30T08:00:00;Verona;Ospedale Marzana;19;0;0;1;0
 2020-03-30T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-30T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-30T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-30T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-30T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;78;10;0;26;15
@@ -1348,6 +1370,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-03-31T08:00:00;Verona;Ospedale Villafranca *;123;20;0;23;12
 2020-03-31T08:00:00;Verona;Ospedale Marzana;27;0;0;1;0
 2020-03-31T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-03-31T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-03-31T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-03-31T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-03-31T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;0;26;15
@@ -1407,6 +1430,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-01T08:00:00;Verona;Ospedale Villafranca *;116;19;0;32;15
 2020-04-01T08:00:00;Verona;Ospedale Marzana;35;0;0;1;0
 2020-04-01T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-01T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-01T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-01T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-01T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;0;26;17
@@ -1467,6 +1491,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-02T08:00:00;Verona;Ospedale Villafranca *;123;17;0;34;18
 2020-04-02T08:00:00;Verona;Ospedale Marzana;36;0;0;1;0
 2020-04-02T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-02T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-02T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-02T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-02T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;78;10;0;36;19
@@ -1527,6 +1552,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-03T08:00:00;Verona;Ospedale Villafranca *;119;16;0;37;23
 2020-04-03T08:00:00;Verona;Ospedale Marzana;43;0;0;1;1
 2020-04-03T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-03T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-03T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-03T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-03T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;83;10;0;36;19
@@ -1580,6 +1606,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-04T08:00:00;Verona;Ospedale Villafranca *;117;16;0;41;24
 2020-04-04T08:00:00;Verona;Ospedale Marzana;43;0;0;1;1
 2020-04-04T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-04T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-04T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-04T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-04T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;81;10;0;38;19
@@ -1639,6 +1666,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-05T08:00:00;Verona;Ospedale Villafranca *;109;16;0;48;25
 2020-04-05T08:00:00;Verona;Ospedale Marzana;47;0;0;1;1
 2020-04-05T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-05T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-05T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-05T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-05T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;82;10;0;44;19
@@ -1700,6 +1728,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-06T08:00:00;Verona;Ospedale Villafranca *;117;13;0;48;25
 2020-04-06T08:00:00;Verona;Ospedale Marzana;44;0;0;2;1
 2020-04-06T08:00:00;Verona;Ospedale Bussolengo;0;0;0;0;0
+2020-04-06T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-06T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-06T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-06T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;85;10;0;44;19
@@ -1760,6 +1789,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-07T08:00:00;Verona;Ospedale Villafranca *;116;13;0;57;26
 2020-04-07T08:00:00;Verona;Ospedale Marzana;46;0;0;2;1
 2020-04-07T08:00:00;Verona;Ospedale Bussolengo;5;0;0;0;0
+2020-04-07T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-07T08:00:00;Verona;Ospedale Malcesine;1;0;0;0;0
 2020-04-07T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-07T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;86;6;0;44;23
@@ -1820,6 +1850,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-08T08:00:00;Verona;Ospedale Villafranca *;115;12;0;62;28
 2020-04-08T08:00:00;Verona;Ospedale Marzana;53;0;0;1;1
 2020-04-08T08:00:00;Verona;Ospedale Bussolengo;12;0;0;0;0
+2020-04-08T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-08T08:00:00;Verona;Ospedale Malcesine;1;0;0;0;0
 2020-04-08T08:00:00;Padova;IRCCS - IOV;0;0;0;0;0
 2020-04-08T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;86;7;0;48;23
@@ -1878,6 +1909,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-09T08:00:00;Verona;Ospedale Villafranca *;120;12;0;67;28
 2020-04-09T08:00:00;Verona;Ospedale Marzana;59;0;0;2;1
 2020-04-09T08:00:00;Verona;Ospedale Bussolengo;12;0;0;0;0
+2020-04-09T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-09T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-09T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;84;7;0;50;24
 2020-04-09T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;38;8;0;44;21
@@ -1939,6 +1971,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-10T08:00:00;Verona;Ospedale Villafranca *;116;12;0;74;30
 2020-04-10T08:00:00;Verona;Ospedale Marzana;62;0;0;2;1
 2020-04-10T08:00:00;Verona;Ospedale Bussolengo;15;0;0;0;0
+2020-04-10T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-10T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;81;7;0;55;24
 2020-04-10T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;42;5;0;48;23
 2020-04-10T08:00:00;Belluno;Ospedale di Comunita' Belluno;15;0;0;8;3
@@ -2002,6 +2035,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-11T08:00:00;Verona;Ospedale Villafranca *;111;12;0;75;36
 2020-04-11T08:00:00;Verona;Ospedale Marzana;62;0;0;2;1
 2020-04-11T08:00:00;Verona;Ospedale Bussolengo;21;0;0;0;0
+2020-04-11T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-11T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;75;8;0;60;25
 2020-04-11T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;40;5;0;51;24
 2020-04-11T08:00:00;Belluno;Ospedale di Comunita' Belluno;15;0;0;9;4
@@ -2064,6 +2098,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-12T08:00:00;Verona;Ospedale Villafranca *;103;12;0;80;38
 2020-04-12T08:00:00;Verona;Ospedale Marzana;67;0;0;2;1
 2020-04-12T08:00:00;Verona;Ospedale Bussolengo;22;0;0;2;0
+2020-04-12T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-12T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;68;8;0;73;25
 2020-04-12T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;40;4;0;53;24
 2020-04-12T08:00:00;Belluno;Ospedale di Comunita' Belluno;16;0;0;9;4
@@ -2126,6 +2161,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-13T08:00:00;Verona;Ospedale Villafranca *;103;12;0;80;40
 2020-04-13T08:00:00;Verona;Ospedale Marzana;67;0;0;2;1
 2020-04-13T08:00:00;Verona;Ospedale Bussolengo;18;0;0;5;1
+2020-04-13T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-13T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;69;8;0;73;25
 2020-04-13T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;40;4;0;53;24
 2020-04-13T08:00:00;Belluno;Ospedale di Comunita' Belluno;14;0;0;10;5
@@ -2187,6 +2223,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-14T08:00:00;Verona;Ospedale Villafranca *;104;10;0;82;43
 2020-04-14T08:00:00;Verona;Ospedale Marzana;67;0;0;2;1
 2020-04-14T08:00:00;Verona;Ospedale Bussolengo;19;0;0;5;1
+2020-04-14T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-14T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;67;8;0;76;26
 2020-04-14T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;38;4;0;54;25
 2020-04-14T08:00:00;Belluno;Ospedale di Comunita' Belluno;14;0;0;10;5
@@ -2249,6 +2286,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-15T08:00:00;Verona;Ospedale Villafranca *;105;7;0;90;43
 2020-04-15T08:00:00;Verona;Ospedale Marzana;66;0;0;3;1
 2020-04-15T08:00:00;Verona;Ospedale Bussolengo;22;0;0;5;1
+2020-04-15T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-15T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;67;8;0;76;26
 2020-04-15T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;45;4;0;60;26
 2020-04-15T08:00:00;Belluno;Ospedale di Comunita' Belluno;16;0;0;10;5
@@ -2311,6 +2349,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-16T08:00:00;Verona;Ospedale Villafranca *;109;10;0;92;43
 2020-04-16T08:00:00;Verona;Ospedale Marzana;67;0;0;3;2
 2020-04-16T08:00:00;Verona;Ospedale Bussolengo;24;0;0;5;1
+2020-04-16T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-16T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;67;8;0;79;26
 2020-04-16T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;46;4;0;68;28
 2020-04-16T08:00:00;Padova;IRCCS - IOV;1;0;0;0;0
@@ -2373,6 +2412,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-17T08:00:00;Verona;Ospedale Villafranca *;108;10;10;94;45
 2020-04-17T08:00:00;Verona;Ospedale Marzana;67;0;11;3;2
 2020-04-17T08:00:00;Verona;Ospedale Bussolengo;29;0;10;8;1
+2020-04-17T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-17T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;65;8;16;82;26
 2020-04-17T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;51;3;2;67;29
 2020-04-17T08:00:00;Padova;IRCCS - IOV;1;0;0;0;0
@@ -2435,6 +2475,7 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-18T08:00:00;Verona;Ospedale Villafranca *;95;14;10;105;49
 2020-04-18T08:00:00;Verona;Ospedale Marzana;67;0;11;3;3
 2020-04-18T08:00:00;Verona;Ospedale Bussolengo;22;0;3;15;1
+2020-04-18T08:00:00;Verona;Ospedale Bovolone;0;0;0;0;0
 2020-04-18T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;64;9;19;82;27
 2020-04-18T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;52;2;2;68;30
 2020-04-18T08:00:00;Padova;IRCCS - IOV;1;0;1;0;0
@@ -2454,3 +2495,66 @@ data;denominazione_provincia;struttura_di_ricovero;ricoverati_con_sintomi;terapi
 2020-04-18T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
 2020-04-18T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
 2020-04-18T08:00:00;Venezia;Ospedale Portogruaro;0;0;0;0;0
+2020-04-19T08:00:00;Padova;Azienda Ospedale Universita' di Padova;63;14;34;250;56
+2020-04-19T08:00:00;Padova;Azienda Ospedale Universita' di Padova - Ospedale S. Antonio;0;0;0;0;1
+2020-04-19T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Roma;46;15;11;175;93
+2020-04-19T08:00:00;Verona;Azienda Ospedaliera Universitaria Integrata di Verona - Borgo Trento;16;25;11;48;25
+2020-04-19T08:00:00;Belluno;Ospedale Belluno;38;7;1;60;28
+2020-04-19T08:00:00;Belluno;Ospedale Feltre;0;0;0;12;6
+2020-04-19T08:00:00;Treviso;Ospedale Treviso;40;11;9;186;89
+2020-04-19T08:00:00;Treviso;Ospedale Oderzo;6;7;2;16;15
+2020-04-19T08:00:00;Treviso;Ospedale Conegliano;2;1;1;16;20
+2020-04-19T08:00:00;Treviso;Ospedale Vittorio Veneto *;48;4;11;136;25
+2020-04-19T08:00:00;Treviso;Ospedale Castelfranco;3;0;0;38;8
+2020-04-19T08:00:00;Treviso;Ospedale Montebelluna;11;2;6;44;12
+2020-04-19T08:00:00;Treviso;Ospedale S. Camillo-Treviso *;49;0;5;10;1
+2020-04-19T08:00:00;Treviso;Ospedale civ. Motta di Livenza - Treviso;3;0;3;0;0
+2020-04-19T08:00:00;Venezia;Ospedale Mestre;26;8;22;62;33
+2020-04-19T08:00:00;Venezia;Ospedale Venezia;10;4;7;20;11
+2020-04-19T08:00:00;Venezia;Ospedale Mirano;0;3;3;9;7
+2020-04-19T08:00:00;Venezia;Ospedale Dolo *;71;6;23;72;51
+2020-04-19T08:00:00;Venezia;Ospedale Chioggia;0;0;0;1;3
+2020-04-19T08:00:00;Venezia;Ospedale Villa Salus-Mestre *;53;0;19;57;4
+2020-04-19T08:00:00;Venezia;Ospedale San Dona' di Piave;1;0;1;0;0
+2020-04-19T08:00:00;Venezia;Ospedale Jesolo *;34;4;18;57;23
+2020-04-19T08:00:00;Venezia;Casa di Cura Rizzola;10;0;8;7;1
+2020-04-19T08:00:00;Rovigo;Ospedale Rovigo;1;0;1;22;5
+2020-04-19T08:00:00;Rovigo;Ospedale Trecenta *;47;8;12;4;16
+2020-04-19T08:00:00;Rovigo;Ospedale Adria;2;0;2;1;0
+2020-04-19T08:00:00;Padova;Ospedale Schiavonia *;110;7;3;190;71
+2020-04-19T08:00:00;Padova;Ospedale Piove di Sacco;0;0;0;1;0
+2020-04-19T08:00:00;Padova;Ospedale Cittadella;0;2;0;2;7
+2020-04-19T08:00:00;Padova;Ospedale Camposampiero;5;0;1;1;6
+2020-04-19T08:00:00;Padova;Ospedale Conselve;1;0;1;0;0
+2020-04-19T08:00:00;Vicenza;Ospedale Santorso *;128;8;36;99;42
+2020-04-19T08:00:00;Vicenza;Ospedale Bassano;0;2;0;20;12
+2020-04-19T08:00:00;Vicenza;Ospedale Asiago;1;0;0;7;10
+2020-04-19T08:00:00;Vicenza;Ospedale Vicenza;47;16;7;83;61
+2020-04-19T08:00:00;Vicenza;Ospedale Noventa Vicentina;22;0;2;28;1
+2020-04-19T08:00:00;Vicenza;Ospedale Arzignano;0;0;0;0;1
+2020-04-19T08:00:00;Vicenza;Ospedale Valdagno;16;0;2;11;3
+2020-04-19T08:00:00;Verona;Ospedale Legnago;49;6;2;43;40
+2020-04-19T08:00:00;Verona;Ospedale San Bonifacio;9;0;0;21;18
+2020-04-19T08:00:00;Verona;Ospedale Villafranca *;95;14;11;104;50
+2020-04-19T08:00:00;Verona;Ospedale Marzana;66;0;19;3;3
+2020-04-19T08:00:00;Verona;Ospedale Bussolengo;22;0;6;15;1
+2020-04-19T08:00:00;Verona;Ospedale Bovolone;1;0;1;0;0
+2020-04-19T08:00:00;Verona;Ospedale Sacro Cuore Don Calabria-Negrar;59;8;15;90;29
+2020-04-19T08:00:00;Verona;Ospedale P. Pederzoli-Peschiera;52;2;2;68;30
+2020-04-19T08:00:00;Padova;IRCCS - IOV;1;0;1;0;0
+2020-04-19T08:00:00;Belluno;Ospedale di Comunita' Belluno;14;0;0;14;6
+2020-04-19T08:00:00;Belluno;Ospedale Agordo;14;0;3;5;1
+2020-04-19T08:00:00;Treviso;Ospedale di Comunita' Castelfranco;2;0;0;1;0
+2020-04-19T08:00:00;Treviso;Centro Servizi Civitas Vitae - Vedelago;27;0;5;10;3
+2020-04-19T08:00:00;Treviso;Centro Servizi Casa Luigi e Augusta - Ormelle;14;0;11;13;4
+2020-04-19T08:00:00;Treviso;Ospedale di Comunita' Vittorio Veneto;24;0;8;21;2
+2020-04-19T08:00:00;Venezia;Ospedale di Comunita' SS. Giovanni e Paolo;1;0;0;0;0
+2020-04-19T08:00:00;Venezia;Casa di Cura Rizzola - OdC;10;0;4;3;0
+2020-04-19T08:00:00;Venezia;Ospedale di Cinto Caomaggiore;1;0;1;0;0
+2020-04-19T08:00:00;Padova;Casa di Cura Villa Maria ODC - Padova;11;0;6;17;1
+2020-04-19T08:00:00;Padova;Ospedale di Comunita' Camposampiero;8;0;4;12;0
+2020-04-19T08:00:00;Vicenza;Ospedale di Comunita' Marostica;15;0;1;6;2
+2020-04-19T08:00:00;Vicenza;Ospedale Lonigo;0;0;0;0;0
+2020-04-19T08:00:00;Padova;Casa di Cura Villa Maria - Padova;0;0;0;0;0
+2020-04-19T08:00:00;Verona;Ospedale Malcesine;0;0;0;0;0
+2020-04-19T08:00:00;Venezia;Ospedale Portogruaro;0;0;0;0;0
